@@ -1,0 +1,1001 @@
+{
+  "format": "RAD-Reference-Workspace",
+  "version": 1,
+  "updatedAt": "2026-11-17T03:43:44.992Z",
+  "entries": [
+    {
+      "id": "RAD-MWGWIF63-9L1EU",
+      "title": "CHEST: LATERAL",
+      "region": "chest",
+      "topic": "chest",
+      "tags": [
+        "chest",
+        "lateral"
+      ],
+      "notes": "14x17 LW       SID: 72\" \nCR: ⟂ to MCP at T7\nBreath: Suspend at inspiration\n\nTop of IR: 1.5-2” above shoulders\nCollimation: 1\" border around skin line\n\nPosition: Rest arms above head or hold bar (IV stand in front)\n\nNotes: Left Lateral preferred\n",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17 LW       </span><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span><span style=\"color: rgb(192, 57, 69);\">⟂ to MCP at T7</span></strong><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span><span style=\"color: rgb(36, 99, 174);\">Suspend at inspiration</span></strong><br><br><strong>Top of IR:</strong> 1.5-2” above shoulders<br><strong>Collimation: </strong>1\" border around skin line<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> Rest arms above head or hold bar (IV stand in front)<br><span style=\"color: rgb(192, 57, 69);\"><br></span><strong><span style=\"color: rgb(38, 61, 87);\">Notes:</span></strong><span style=\"color: rgb(192, 57, 69);\"> Left Lateral preferred</span><br>",
+      "images": [
+        "images/rad-mwh74831-3tqgiug5-0.jpg",
+        "images/rad-mwh7485c-c4o4qmh4-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH2WKP0-4DJM4",
+      "title": "CHEST: LATERAL DECUBITUS",
+      "region": "chest",
+      "topic": "chest",
+      "tags": [
+        "chest",
+        "Decubitus",
+        "Left lateral decubitus",
+        "decube",
+        "chest decube",
+        "chest decubitus"
+      ],
+      "notes": "14x17 LW      SID: 72\" \nCR: Horizontal & ⟂ to GRID; \n       3\" below jugular notch for AP;\n       T7 for PA\nBreath: Suspend at inspiration\n\nTop of IR: 1.5-2” above shoulders\nCollimation: 14x17\n\nPosition: \n\nExtend arms over head\nAdjust thorax to true lateral\nElevate body 2-3\" off table with sponge\n\nNotes: Left lateral decubitus preferred",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17 LW      </span><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(192, 57, 69);\">Horizontal &amp; ⟂ to GRID; </span></strong><br><strong><span style=\"color: rgb(192, 57, 69);\">       3\" below jugular notch for AP;</span></strong><br><strong><span style=\"color: rgb(192, 57, 69);\">       T7 for PA</span></strong><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span><span style=\"color: rgb(36, 99, 174);\">Suspend at inspiration</span></strong><br><br><strong>Top of IR:</strong> 1.5-2” above shoulders<br><strong>Collimation: </strong>14x17<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li>Extend arms over head</li><li>Adjust thorax to true lateral</li><li>Elevate body 2-3\" off table with sponge</li></ul><br><strong>Notes: </strong>Left lateral decubitus preferred",
+      "images": [
+        "images/rad-mwh77rkx-uf50xf9f-0.jpg",
+        "images/rad-mwh77rng-hk28jfr4-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH4TSU9-DQ6AP",
+      "title": "C-Spine: AP ODONTOID (Open-Mouth) C1-C2",
+      "region": "spine",
+      "topic": "cervical",
+      "tags": [
+        "C-Spine",
+        "spine",
+        "cervical spine",
+        "cervical",
+        "cervical spine odontoid",
+        "c-spine odontoid",
+        "c1",
+        "c2",
+        "open mouth",
+        "open-mouth",
+        "ap odontoid",
+        "c-spine"
+      ],
+      "notes": "10x12 LW      SID: 30\" \nCR: ⟂ to IR; Enters midpoint of the open mouth\nBreath: “AHH” softly \n\nCollimation: 5x5\n\nPosition: \n\nOpen mouth & adjust head so lower surface of upper incisors to tips of mastoid ⟂ to IR\nMouth open as wide as possible\n(Shows Atlas: C1 & Axis: C2)",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 30\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><span style=\"color: rgb(204, 0, 0);\"><strong>⟂ to IR; </strong>Enters midpoint of the open mouth</span><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><span style=\"color: rgb(36, 99, 174);\"><strong>“AHH” softly </strong></span><br><br><strong>Collimation: </strong>5x5<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Open mouth &amp; adjust head so lower surface of upper incisors to tips of mastoid ⟂ to IR</span></li><li><span style=\"color: rgb(38, 61, 87);\"><span style=\"color: rgb(0, 0, 0);\">Mouth open as wide as possible</span></span></li><li><span style=\"color: rgb(36, 99, 174);\">(Shows Atlas: C1 &amp; Axis: C2)</span></li></ul>",
+      "images": [
+        "images/rad-mwh6sb3j-mz037uwk-0.jpg",
+        "images/rad-mwh518jb-6odr01b0-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH51HEC-F5VEF",
+      "title": "C-Spine: AP AXIAL OBLIQUE (LPO/RPO)",
+      "region": "spine",
+      "topic": "cervical",
+      "tags": [
+        "C-Spine",
+        "spine",
+        "cervical spine",
+        "cervical",
+        "cervical spine ap axial oblique",
+        "c-spine",
+        "AP AXIAL OBLIQUE  LPO/RPO"
+      ],
+      "notes": "10x12 LW      SID: 72\" \nCR: 15-20° cephalad, directed to C4 \nBreath: Suspend\n\nCollimation: 10x12 \nIR: Centered to C3 body\n      1\" superior to most prominent point of thyroid cartilage\n\nPosition: \n\nRotate shoulders 45° & center to cervical spine to IR\nElevate & protrude chin\n(Shows intervertebral foramina and pedicles farthest from the IR)\n\nNotes: LPO = right foramina | RPO = left foramina\n",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">15-20° cephalad, </span></strong><span style=\"color: rgb(204, 0, 0);\">directed to C4 </span><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Suspend</span></strong><br><br><strong>Collimation: </strong>10x12<strong> </strong><br><strong>IR:</strong> Centered to <strong><u><span style=\"color: rgb(192, 57, 69);\">C3</span></u></strong> body<br>      1\" <strong>superior</strong> to most prominent point of thyroid cartilage<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\"><strong>Rotate shoulders 45° </strong>&amp; center to cervical spine to IR</span></li><li><span style=\"color: rgb(38, 61, 87);\">Elevate &amp; protrude chin</span></li><li><span style=\"color: rgb(36, 99, 174);\">(Shows intervertebral foramina and pedicles <strong><u>farthest</u></strong> from the IR)</span></li></ul><br><strong><span style=\"color: rgb(38, 61, 87);\">Notes: </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">LPO = right foramina | RPO = left foramina</span></strong><span style=\"color: rgb(38, 61, 87);\"><br></span>",
+      "images": [
+        "images/rad-mwh6o4b7-3j68el6q-0.jpg",
+        "images/rad-mwh5aiwd-dhkm2x8w-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH5QFU9-WPKHP",
+      "title": "C-Spine: LATERAL (GRANDY)",
+      "region": "spine",
+      "topic": "cervical",
+      "tags": [
+        "C-Spine",
+        "spine",
+        "cervical spine",
+        "cervical",
+        "cervical spine lateral",
+        "c-spine lateral grandy",
+        "grandy"
+      ],
+      "notes": "10x12 LW      SID: 72\" \nCR: Horizontal & ⟂ to MCP at C4\nBreath: Suspend at expiration\n\nCollimation: 10x12 \nTop of IR: 1” above top of EAM\n  \nPosition: \n\nSandbags to patient's wrists to depress shoulders (to get C7)\nC4 in center\nElevate chin slightly, mandible protruded\n(Shows vertebral bodies, zygapophyseal joints, & open intervertebral disk spaces)\n\nNotes: *If cervical spine trauma is suspected, this projection must be performed first and *cleared* by radiologist before additional images are performed.\n*If top third of T1 is not demonstrated, lateral of cervicothoracic is required (Swimmers).\n",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">Horizontal &amp; ⟂ to MCP at C4</span></strong><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath: Suspend at expiration</span></strong><br><br><strong>Collimation: </strong>10x12<strong> </strong><br><strong>Top of IR:</strong> 1” above top of EAM<br>  <br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Sandbags to patient's wrists to depress shoulders</span><span style=\"color: rgb(192, 57, 69);\"> (to get C7)</span></li><li><span style=\"color: rgb(38, 61, 87);\">C4 in center</span></li><li><span style=\"color: rgb(38, 61, 87);\">Elevate chin slightly, mandible protruded</span></li><li><span style=\"color: rgb(36, 99, 174);\">(Shows vertebral bodies, zygapophyseal joints, &amp; open intervertebral disk spaces)</span></li></ul><br><strong><span style=\"color: rgb(38, 61, 87);\">Notes: </span></strong><span style=\"color: rgb(38, 61, 87);\">*If cervical spine trauma is suspected, this projection must be performed first and *cleared* by radiologist before additional images are performed.\n</span><span style=\"color: rgb(125, 76, 163);\"><strong>*If top third of T1 is not demonstrated, lateral of cervicothoracic is required (Swimmers).</strong></span><br>",
+      "images": [
+        "images/rad-mwh70dpr-vec5bg8l-0.jpg",
+        "images/rad-mwh60y94-a2nj8o4q-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH7H3V4-GMSY9",
+      "title": "C-Spine: AP DENS (FUCHS)",
+      "region": "spine",
+      "topic": "cervical",
+      "tags": [
+        "C-Spine",
+        "spine",
+        "cervical spine",
+        "cervical",
+        "cervical spine AP Dens Fuchs",
+        "C-spin ap dens",
+        "fuchs",
+        "dens"
+      ],
+      "notes": "10x12 CW      SID: 40\" \nCR: ⟂ to IR; Enters the neck on the MSP just distal to the tip of the chin\nBreath: Suspend\n\nCollimation: 5x5\n\nPosition: \n\nCenter the IR to the level of the tips of the mastoid processes\nExtend the chin until the tip of the chin and the tips of the mastoid process are vertical\n(Shows dens within the foramen magnum)\n\nNotes: Fuchs method is contraindicated if cervical fracture or disease is suspected.",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 CW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><span style=\"color: rgb(204, 0, 0);\"><strong>⟂ to IR; </strong>Enters the neck on the MSP just distal to the tip of the chin</span><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><span style=\"color: rgb(36, 99, 174);\"><strong>Suspend</strong></span><br><br><strong>Collimation: </strong>5x5<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Center the IR to the level of the tips of the mastoid processes</span></li><li><span style=\"color: rgb(38, 61, 87);\">Extend the chin until the tip of the chin and the tips of the mastoid process are vertical</span></li><li><span style=\"color: rgb(36, 99, 174);\">(Shows dens within the foramen magnum)</span></li></ul><span style=\"color: rgb(0, 0, 0);\"><strong><span style=\"color: rgb(0, 0, 0);\"><strong><br></strong></span>Notes:</strong> Fuchs method is </span><span style=\"color: rgb(192, 57, 69);\">contraindicated</span><span style=\"color: rgb(0, 0, 0);\"> if cervical fracture or disease is suspected.</span>",
+      "images": [
+        "images/rad-mwh7rns1-wrlnzm4m-0.jpg",
+        "images/rad-mwh7rnue-mgz7zbj8-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH80HFQ-JGGPE",
+      "title": "C-Spine: LATERAL - Hyperflexion & Hyperextension",
+      "region": "spine",
+      "topic": "cervical",
+      "tags": [
+        "C-Spine",
+        "spine",
+        "cervical spine",
+        "cervical",
+        "cervical spine lateral",
+        "Hyperflexion",
+        "hyperextension; c-spine lateral hyperextension; c-spine lateral hyperflexion"
+      ],
+      "notes": "10x12 LW      SID: 72\" \nCR: Horizontal & ⟂ to C4\nBreath: Suspend \n\nCollimation: 10x12 \nTop of IR: 1” above top of EAM\n  \nPosition: \n\nSame as for lateral (Grandy)\nHyperflexion: Have patient drop head forward and draw the chin as close as possible to chest; Body of the mandible almost vertical\n\nHyperextension: Have patient elevate chin and relax head as far back as possible; Body of the mandible almost horizontal\n\nElevate chin slightly, mandible protruded\n(Checks for absent motion from trauma/disease)\n\nNotes: *Used to demonstrate absence of normal movement from trauma or disease.\n*This procedure must not be attempted until cervical spine pathology or fracture has been ruled out.\n",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">Horizontal &amp; ⟂ to C4</span></strong><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath: Suspend </span></strong><br><br><strong>Collimation: </strong>10x12<strong> </strong><br><strong>Top of IR:</strong> 1” above top of EAM<br>  <br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Same as for lateral (Grandy)</span></li><li><strong><span style=\"color: rgb(27, 133, 94);\">Hyperflexion</span></strong><span style=\"color: rgb(38, 61, 87);\">: Have patient drop head forward and draw the chin as close as possible to chest; Body of the mandible almost vertical</span>\n</li><li><strong><span style=\"color: rgb(173, 99, 14);\">Hyperextension:</span></strong><span style=\"color: rgb(38, 61, 87);\"> Have patient elevate chin and relax head as far back as possible; Body of the mandible almost horizontal</span>\n</li><li><span style=\"color: rgb(38, 61, 87);\">Elevate chin slightly, mandible protruded</span></li><li><span style=\"color: rgb(36, 99, 174);\">(Checks for absent motion from trauma/disease)</span></li></ul><br><strong><span style=\"color: rgb(38, 61, 87);\">Notes: </span></strong><span style=\"color: rgb(38, 61, 87);\">*Used to demonstrate absence of normal movement from trauma or disease.\n</span><span style=\"color: rgb(125, 76, 163);\">*This procedure must <strong>not</strong> be attempted until cervical spine pathology or fracture has been ruled out.</span><br>",
+      "images": [
+        "images/rad-mwh8cmo5-4onq5bsz-0.jpg",
+        "images/rad-mwh8cmqf-0e0b1n3m-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH8IGMY-UWYHT",
+      "title": "C-Spine: PA AXIAL OBLIQUE (RAO/LAO) *preferred*",
+      "region": "spine",
+      "topic": "cervical",
+      "tags": [
+        "C-Spine",
+        "spine",
+        "cervical spine",
+        "cervical",
+        "cervical spine ap axial oblique",
+        "RAO/LAO oblique",
+        "c-spine PA AXIAL OBLIQUE (RAO/LAO)"
+      ],
+      "notes": "10x12 LW      SID: 72\" \nCR: 15-20° caudad, at C4 \nBreath: Suspend\n\nCollimation: 10x12 \nIR: Centered to C5 body\n      1\" caudal to most prominent point of thyroid cartilage\n\nPosition: \n\nRotate body & neck 45° \nElevate & protrude chin\n(Shows RAO/LAO = Intervertebral foramina and pedicles closest to the IR)\n\nNotes: RAO = right foramina | LAO = left foramina",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">15-20° caudad, </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">at C4 </span></strong><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Suspend</span></strong><br><br><strong>Collimation: </strong>10x12<strong> </strong><br><strong>IR:</strong> Centered to <strong><u><span style=\"color: rgb(192, 57, 69);\">C5</span></u></strong> body<br>      1\" <strong>caudal</strong> to most prominent point of thyroid cartilage<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Rotate body &amp; neck<strong> 45° </strong></span></li><li><span style=\"color: rgb(38, 61, 87);\">Elevate &amp; protrude chin</span></li><li><span style=\"color: rgb(36, 99, 174);\">(Shows RAO/LAO = Intervertebral foramina and pedicles <strong><u>closest</u></strong> to the IR)</span></li></ul><br><strong><span style=\"color: rgb(38, 61, 87);\">Notes: </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">RAO = right foramina | LAO = left foramina</span></strong>",
+      "images": [
+        "images/rad-mwh8vabl-x8xji8wu-0.jpg",
+        "images/rad-mwh8vady-hf0xt0vc-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH9XNU1-OR25T",
+      "title": "T-Spine: AP",
+      "region": "spine",
+      "topic": "thoracic",
+      "tags": [
+        "T-Spine",
+        "spine",
+        "thoracic spine",
+        "T-SPINE: AP"
+      ],
+      "notes": "14x17 LW      SID: 40\" \nCR: ⟂ to IR; ½ between jugular notch & xiphoid (T7)\nBreath: Suspend at expiration\n\nCollimation: 7x17\nTop of IR: 1.5-2” above shoulders (this places T7 in center) \n\nPosition: \nIf supine, reduce kyphosis by flexing hips and knees to place thighs vertical\nIf upright, weight should be equally distributed on both feet\n(Shows costovertebral articulations)\n\nNotes: If possible, orient patient so lower thorax is at cathode end of x-ray tube. This orientation takes advantage of the “anode heel effect” to ensure a more uniform exposure of the thoracic anatomy.",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">⟂ to IR; </span></strong><span style=\"color: rgb(204, 0, 0);\">½ between jugular notch &amp; xiphoid (T7)</span><strong><span style=\"color: rgb(192, 57, 69);\">\n</span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Suspend at expiration</span></strong><br><br><strong>Collimation: </strong>7x17<br><strong>Top of IR:</strong> 1.5-2” above shoulders (this places T7 in center) <br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <ul><li><span style=\"color: rgb(38, 61, 87);\">If </span><strong><span style=\"color: rgb(192, 57, 69);\">supine</span></strong><span style=\"color: rgb(38, 61, 87);\">, reduce kyphosis by flexing hips and knees to place thighs vertical</span></li><li><span style=\"color: rgb(38, 61, 87);\">If </span><strong><span style=\"color: rgb(125, 76, 163);\">upright</span></strong><span style=\"color: rgb(38, 61, 87);\">, weight should be equally distributed on both feet</span></li><li><span style=\"color: rgb(36, 99, 174);\">(Shows costovertebral articulations)</span></li></ul><br><span style=\"color: rgb(38, 61, 87);\"><strong>Notes:</strong> If possible, orient patient so lower thorax is at cathode end of x-ray tube. This orientation takes advantage of the “anode heel effect” to ensure a more uniform exposure of the thoracic anatomy.</span>",
+      "images": [
+        "images/rad-mwha9o4n-toglw698-0.jpg",
+        "images/rad-mwha9o6y-bquog5ne-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWHBCOBQ-Y2LC4",
+      "title": "SCOLIOSIS: LATERAL ThoracoLumbar Spine",
+      "region": "spine",
+      "topic": "scoliosis",
+      "tags": [
+        "T-Spine",
+        "spine",
+        "lumbar spine",
+        "scoliosis",
+        "lateral thoracolumbar"
+      ],
+      "notes": "14x17 LW      SID: 40-72”\nCR: ⟂ to IR\n\nCentering points for each sequence will be dictated by the system used\nA two (or three) image sequence is performed \nBreath: Suspend \n\nCollimation: varies\n\nPosition: \nArms at right angle to body or upward \nPosition special ruler adjacent to spine, if needed\n(shows entire spine from base of skull to tip of coccyx)",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">40-72”</span></strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">⟂ to IR</span></strong><br><ul><li><span style=\"color: rgb(125, 76, 163);\">Centering points for each sequence will be dictated by the system used</span><strong><span style=\"color: rgb(204, 0, 0);\"></span></strong></li><li><span style=\"color: rgb(125, 76, 163);\">A two (or three) image sequence is performed </span></li></ul><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span></strong><strong><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Suspend </span></strong><br><span style=\"color: rgb(125, 76, 163);\"><u><br></u></span><strong>Collimation: </strong>varies<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <ul><li><span style=\"color: rgb(38, 61, 87);\">Arms at right angle to body or upward </span></li><li><span style=\"color: rgb(192, 57, 69);\">Position special ruler adjacent to spine, if needed</span></li><li><strong><span style=\"color: rgb(36, 99, 174);\">(shows </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">entire spine from base of skull to tip of coccyx</span></strong><strong><span style=\"color: rgb(36, 99, 174);\">)</span></strong></li></ul>",
+      "images": [
+        "images/rad-mwhbic2r-r0n3w5hd-0.jpg",
+        "images/rad-mwhbic52-viz9niui-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWHBKU0J-VNNIU",
+      "title": "SCOLIOSIS: PA ThoracoLumbar Spine",
+      "region": "spine",
+      "topic": "scoliosis",
+      "tags": [
+        "T-Spine",
+        "spine",
+        "lumbar spine",
+        "scoliosis",
+        "ap thoracolumbar",
+        "cervical spine",
+        "thoracic spine"
+      ],
+      "notes": "14x17 LW      SID: 40-72”\nCR: ⟂ to IR\n\nCentering points for each sequence will be dictated by the system used\nA two (or three) image sequence is performed \nBreath: Suspend \n\nCollimation: varies\n\nPosition: \nASIS equidistant to from the IR\nArms abducted and not in field\n(shows entire spine from base of skull to tip of coccyx)",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">40-72”</span></strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">⟂ to IR</span></strong><br><ul><li><span style=\"color: rgb(38, 61, 87);\">Centering points for each sequence will be dictated by the system used</span><strong><span style=\"color: rgb(204, 0, 0);\"></span></strong></li><li><span style=\"color: rgb(38, 61, 87);\">A two (or three) image sequence is performed </span></li></ul><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span></strong><strong><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Suspend </span></strong><br><span style=\"color: rgb(125, 76, 163);\"><u><br></u></span><strong>Collimation: </strong>varies<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <ul><li><span style=\"color: rgb(192, 57, 69);\">ASIS equidistant to from the IR</span></li><li><span style=\"color: rgb(38, 61, 87);\">Arms abducted and not in field</span></li><li><strong><span style=\"color: rgb(36, 99, 174);\">(shows </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">entire spine from base of skull to tip of coccyx</span></strong><strong><span style=\"color: rgb(36, 99, 174);\">)</span></strong></li></ul>",
+      "images": [
+        "images/rad-mwhbsg71-4d9tms9k-0.jpg",
+        "images/rad-mwhbsg99-5l0gu8qk-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWHAAMBA-DVPYS",
+      "title": "CervicoThoracic Spine: LATERAL (SWIMMERS)",
+      "region": "spine",
+      "topic": "thoracic",
+      "tags": [
+        "T-Spine",
+        "spine",
+        "C-spine",
+        "Cervicothoracic spine",
+        "cervicothoracic spine lateral swimmers",
+        "swimmers"
+      ],
+      "notes": "10x12 LW      SID: 40\"\nCR: ⟂ to C7-T1 interspace (if shoulder away from IR is depressed)\nIf shoulder cannot be depressed, angle 3 to 5° caudad (to better visualize the C7-T1 articulation)\nBreath: Suspend or use a breathing technique (to blur lung anatomy)\n\nCollimation: 10x12\nTop of IR: 1.5-2” above relaxed shoulders\n\nPosition: \n\nExtend arm closer to IR above head, and rotate humeral head anteriorly (If upright, flex elbow, and rest forearm on head)\nDepress shoulder farther from IR (If possible, rotate humeral head in the opposite direction to the other shoulder)\nC7-T1 interspace in center \n(shows upper thoracic because it tends to be very dense)\n\nNotes: The swimmer’s technique is performed when shoulder superimposition obscures C7 on a lateral cervical spine projection or when a lateral projection of the upper thoracic vertebra is needed.",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span></strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">⟂ to C7-T1 interspace </span></strong><span style=\"color: rgb(204, 0, 0);\">(if shoulder away from IR is depressed)</span><br>If shoulder cannot be depressed, angle 3 to 5° caudad (to better visualize the C7-T1 articulation)<strong><span style=\"color: rgb(36, 99, 174);\"><br></span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span></strong><strong><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Suspend or use a breathing technique </span></strong><span style=\"color: rgb(36, 99, 174);\">(to blur lung anatomy)</span><br><span style=\"color: rgb(125, 76, 163);\"><u><br></u></span><strong>Collimation: </strong>10x12<br><strong>Top of IR:</strong> 1.5-2” above relaxed shoulders<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Extend arm closer to IR above head, and rotate humeral head anteriorly </span><span style=\"color: rgb(192, 57, 69);\">(If upright, flex elbow, and rest forearm on head)</span></li><li><span style=\"color: rgb(38, 61, 87);\">Depress shoulder farther from IR </span><span style=\"color: rgb(125, 76, 163);\">(If possible, rotate humeral head in the opposite direction to the other shoulder)</span></li><li><span style=\"color: rgb(38, 61, 87);\">C7-T1 interspace in center </span></li><li><span style=\"color: rgb(36, 99, 174);\">(shows upper thoracic because it tends to be very dense)</span></li></ul><br><span style=\"color: rgb(38, 61, 87);\"><strong>Notes:</strong> The swimmer’s technique is performed when </span><strong><span style=\"color: rgb(125, 76, 163);\"><u>shoulder superimposition obscures C7 on a lateral cervical spine projection</u></span></strong><span style=\"color: rgb(38, 61, 87);\"> or when a </span><span style=\"color: rgb(27, 133, 94);\"><u><strong>lateral projection of the upper thoracic vertebra is needed</strong>.</u></span>",
+      "images": [
+        "images/rad-mwhb6ep0-svx9dbta-0.jpg",
+        "images/rad-mwhb6erl-cdm9tn3f-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWHBY8NU-VE7BV",
+      "title": "T-Spine: LATERAL",
+      "region": "spine",
+      "topic": "thoracic",
+      "tags": [
+        "T-Spine",
+        "spine",
+        "thoracic spine",
+        "T-SPINE: LATERAL"
+      ],
+      "notes": "14x17 LW      SID: 48” or greater to reduce magnification \nCR: ⟂ to posterior half of thorax at T7 (if spine is horizontal)\n       10-15° cephalad if spine is not horizontal\nBreath: Breathing normal or Suspend at full expiration or Breathing technique (an increase        exposure time, 2-3 seconds with corresponding decrease in mA)\n\nCollimation: 7x17\nTop of IR: 1.5-2” above relaxed shoulders \n\nPosition: \n\nLong axis of vertebral column aligned horizontal (Firm support for head and lower portion, if needed)\nSuperimpose hips and knees for true lateral position \nCenter the posterior half of the thorax to the midline of the grid and at the level of T7\n\nAdjust arms to right angle from body\nPlace a sheet of lead on the table, behind the patient (Absorbs scatter radiation; Prevents table scatter from affecting the image)\n\n(Shows intervertebral foramina of the thoracic spine)\n\nNotes: T1 to T3 are not well seen. SI of the shoulders on the upper vertebrae may cause underexposure in this area. The number of vertebrae visualized depends on the size and shape of the patient.\n\n",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 4</span></strong><strong><span style=\"color: rgb(38, 61, 87);\">8” or greater to reduce magnification </span></strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">⟂ to posterior half of thorax at T7 </span></strong><span style=\"color: rgb(204, 0, 0);\">(if spine is horizontal)</span><br><em>       <span style=\"color: rgb(125, 76, 163);\">10-15° cephalad if spine is not horizontal</span></em>\n<strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span></strong><strong><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(173, 99, 14);\">Breathing normal </span></strong><u><span style=\"color: rgb(27, 133, 94);\">or</span></u><strong><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(27, 133, 94);\">Suspend at full expiration </span></strong><u><span style=\"color: rgb(125, 76, 163);\">or</span></u><span style=\"color: rgb(125, 76, 163);\"> </span><span style=\"color: rgb(36, 99, 174);\"><strong>Breathing technique </strong>(an increase        exposure time, 2-3 seconds with corresponding decrease in mA)</span><strong><span style=\"color: rgb(27, 133, 94);\">\n</span></strong><br><strong>Collimation: </strong>7x17<br><strong>Top of IR:</strong> 1.5-2” above relaxed shoulders <br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Long axis of vertebral column aligned horizontal </span><span style=\"color: rgb(192, 57, 69);\">(Firm support for head and lower portion, if needed)</span></li><li><span style=\"color: rgb(38, 61, 87);\">Superimpose hips and knees for true lateral position </span></li><li><span style=\"color: rgb(38, 61, 87);\">Center the </span><strong><span style=\"color: rgb(125, 76, 163);\">posterior</span></strong><span style=\"color: rgb(38, 61, 87);\"> half of the thorax to the midline of the grid and at the level of T7</span>\n</li><li>Adjust arms to right angle from body</li><li>Place a sheet of lead on the table, behind the patient <span style=\"color: rgb(192, 57, 69);\">(Absorbs scatter radiation; Prevents table scatter from affecting the image)</span>\n</li><li><span style=\"color: rgb(36, 99, 174);\">(Shows intervertebral foramina of the thoracic spine)</span></li></ul><br><span style=\"color: rgb(38, 61, 87);\"><strong>Notes:</strong> T1 to T3 are not well seen. </span><span style=\"color: rgb(192, 57, 69);\">SI of the shoulders on the upper vertebrae may cause underexposure in this area.</span><span style=\"color: rgb(38, 61, 87);\"> </span><span style=\"color: rgb(27, 133, 94);\">The number of vertebrae visualized depends on the size and shape of the patient.</span><br><br>",
+      "images": [
+        "images/rad-mwhc7mqv-25vy8lhv-0.jpg",
+        "images/rad-mwhc7mt6-d0g2r3qz-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH4IT0V-MWAY6",
+      "title": "C-Spine: AP AXIAL",
+      "region": "spine",
+      "topic": "cervical",
+      "tags": [
+        "C-Spine",
+        "spine",
+        "cervical spine",
+        "cervical",
+        "cervical spine ap axial",
+        "c-spine ap axial"
+      ],
+      "notes": "10x12 LW      SID: 40\" \nCR: 15-20° cephalic; MSP at C4 \n(Enters at or slightly below Adam’s apple)\nBreath: Suspend\n\nCollimation: 10” LW & 1” outside skin line on sides\nIR: Top of ears\n\nPosition: \n\nExtend chin so occlusal plane is ⟂ to IR\nC4 in center of IR\n(Shows C3–T2 bodies & open intervertebral disk spaces)\n\nNotes: Provide support for the head of any patient who has a pronounced lordotic curvature. (Helps compensate for the curvature and reduces image distortion)",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">15-20°</span><span style=\"color: rgb(204, 0, 0);\"> </span><span style=\"color: rgb(204, 0, 0);\">cephalic</span></strong><strong><span style=\"color: rgb(192, 57, 69);\">; </span></strong><span style=\"color: rgb(192, 57, 69);\">MSP at C4 </span><br><span style=\"color: rgb(125, 76, 163);\">(Enters at or slightly below Adam’s apple)</span><strong><span style=\"color: rgb(192, 57, 69);\">\n</span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span><span style=\"color: rgb(36, 99, 174);\">Suspend</span></strong><br><br><strong>Collimation: </strong>10” LW &amp; 1” outside skin line on sides<br><strong>IR:</strong> Top of ears<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Extend chin so occlusal plane is <strong>⟂</strong> to IR</span></li><li><span style=\"color: rgb(38, 61, 87);\">C4 in center of IR</span></li><li><span style=\"color: rgb(36, 99, 174);\">(Shows C3–T2 bodies &amp; open intervertebral disk spaces)</span></li></ul><br><span style=\"color: rgb(38, 61, 87);\"><strong>Notes:</strong> Provide support for the head of any patient who has </span>a pronounced lordotic curvature. (Helps compensate for the curvature and reduces image distortion)",
+      "images": [
+        "images/rad-mwh94p7c-2zh3iwwf-0.jpg",
+        "images/rad-mwh4spyy-rkm5vdai-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWHWHUM5-SHKK5",
+      "title": "CHEST: AP (Supine)",
+      "region": "chest",
+      "topic": "chest",
+      "tags": [
+        "Chest",
+        "AP",
+        "AP Supine",
+        "AP Chest",
+        "Supine Chest",
+        "Chest X-ray",
+        "Chest Radiograph",
+        "Portable Chest"
+      ],
+      "notes": "14x17  LW      SID: 72\" \nCR: ⟂ to long axis of sternum; ⟂ to center of IR; \n        3” below jugular notch\nBreath: Suspend at inspiration\n\nTop of IR: 1.5-2” above relaxed shoulders\nCollimation: 14x17\n\nPosition: \nFlex elbows; pronate hands; Place hands on hips to draw scapula laterally\n\nElevate head with support sponge",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17  LW      </span><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span></strong><span style=\"color: rgb(192, 57, 69);\"><strong>⟂ to long axis of sternum; ⟂ to center of IR; </strong></span><br><span style=\"color: rgb(192, 57, 69);\"><strong>        3” below jugular notch<br></strong></span><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span><span style=\"color: rgb(36, 99, 174);\">Suspend at inspiration</span></strong><br><br><strong>Top of IR:</strong> 1.5-2” above relaxed shoulders<br><strong>Collimation: </strong>14x17<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <ul><li>Flex elbows; pronate hands; Place hands on hips to draw scapula laterally\n</li><li>Elevate head with support sponge</li></ul>",
+      "images": [
+        "images/rad-mwhwsube-0xfpms3p-0.png",
+        "images/rad-mwhwsuem-y7rpipps-1.png"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWHWTUYK-KSAG7",
+      "title": "CHEST: AP AXIAL - Lordotic (LINDBLOM)",
+      "region": "chest",
+      "topic": "chest",
+      "tags": [
+        "Chest",
+        "AP",
+        "AP Axial",
+        "AP Axial Lordotic",
+        "Lordotic Chest",
+        "Lindblom",
+        "Lindblom Method",
+        "Chest X-ray",
+        "Lung Apices",
+        "Apical Projection",
+        "Pulmonary Apices"
+      ],
+      "notes": "14x17  LW      SID: 72\" \nCR: ⟂ to center of IR; Enters MSP at midsternum 3-4” below jugular notch\nBreath: Suspend at inspiration\n\nTop of IR: 3” above shoulders\nCollimation: 14x17\n\nPosition: \n\nApproximately 1ft in front of grid \nAssist patient to lean backward until shoulders rest on grid\n\nCoronal plane of thorax 15-20° from the vertical\n\nNotes: Can do CR 15-20° when patient can’t lean back. Used to see masses or tumors.",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17  LW      </span><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span></strong><span style=\"color: rgb(192, 57, 69);\"><strong>⟂ to center of IR; E</strong></span><span style=\"color: rgb(192, 57, 69);\"><strong>nters MSP at midsternum 3-4” below jugular notch</strong></span><strong><span style=\"color: rgb(192, 57, 69);\"><br></span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span><span style=\"color: rgb(36, 99, 174);\">Suspend at inspiration</span></strong><br><br><strong>Top of IR:</strong> <strong><u><span style=\"color: rgb(192, 57, 69);\">3” above</span></u></strong> shoulders<br><strong>Collimation: </strong>14x17<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li>Approximately 1ft in front of grid </li><li>Assist patient to lean backward until shoulders rest on grid\n</li><li>Coronal plane of thorax 15-20° from the vertical</li></ul><br><strong><span style=\"color: rgb(38, 61, 87);\">Notes:</span></strong> <strong><span style=\"color: rgb(125, 76, 163);\">Can do CR 15-20° when patient can’t lean back. Used to see masses or tumors.</span></strong>",
+      "images": [
+        "images/rad-mwhx6v70-c2t5itj3-0.png",
+        "images/rad-mwhx6vah-tbqp3mb5-1.png"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH2M9HA-2WIT2",
+      "title": "CHEST: PA (Upright)",
+      "region": "chest",
+      "topic": "chest",
+      "tags": [
+        "chest",
+        "PA",
+        "PA Upright"
+      ],
+      "notes": "14x17 CW or LW      SID: 72\" \nCR: ⟂ to MSP at T7\nBreath: Suspend at end of 2nd full inspiration\n\nTop of IR: 1.5-2” above shoulders\nCollimation: 1\" border around skin line\n\nPosition: \n\nChin extended slightly\nBack of hands low on hips or grabbing bars on IR\nRoll shoulders forward",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17 CW or LW      </span><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span><span style=\"color: rgb(192, 57, 69);\">⟂ to MSP at T7</span></strong><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span><span style=\"color: rgb(36, 99, 174);\">Suspend at end of 2nd full inspiration</span></strong><br><br><strong>Top of IR:</strong> 1.5-2” above shoulders<br><strong>Collimation: </strong>1\" border around skin line<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li>Chin extended slightly</li><li>Back of hands low on hips or grabbing bars on IR</li><li>Roll shoulders forward</li></ul>",
+      "images": [
+        "images/rad-mwh7bpbd-ax9hr01t-0.jpg",
+        "images/rad-mwh2typa-7ucw2fsi-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWHYBC5K-JZH1T",
+      "title": "SOFT TISSUE NECK: AP UPPER AIRWAY",
+      "region": "spine",
+      "topic": "softtissueneck",
+      "tags": [
+        "Soft Tissue Neck",
+        "AP Upper Airway",
+        "AP",
+        "Upper Airway",
+        "Cervical Spine",
+        "Soft Tissue",
+        "Neck",
+        "AP Neck",
+        "Anteroposterior",
+        "Airway",
+        "Trachea",
+        "Larynx",
+        "Pharynx",
+        "Cervical Soft Tissue",
+        "Neck X-ray",
+        "Upper Airway X-ray",
+        "Soft Tissue Neck AP"
+      ],
+      "notes": "10x12 LW      SID: 40\" \nCR: ⟂ through the MSP at laryngeal prominence C4 (for upper airway)\n       or manubrium (for larynx and superior mediastinum)\nBreath: slow inspiration \n\nCollimation: 12” long; 1” beyond the skin line on the sides, but not more than 10”\n\nPosition: \nExtend the patient’s neck slightly and adjust it so that the midsagittal plane is ⟂ to the plane of the IR\n\nNotes: Used to evaluate the cervical spine or the soft tissues of the anterior neck.",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(192, 57, 69);\">⟂ through the MSP at laryngeal prominence C4 (for upper airway)</span></strong><br><strong><span style=\"color: rgb(125, 76, 163);\">       </span></strong><span style=\"color: rgb(125, 76, 163);\">or manubrium (for larynx and superior mediastinum)</span><strong><span style=\"color: rgb(192, 57, 69);\">\n</span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">slow inspiration </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">\n</span></strong><br><strong>Collimation: </strong>12” long; <span style=\"color: rgb(125, 76, 163);\">1” beyond the skin line on the sides, but not more than 10”</span><br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <ul><li><span style=\"color: rgb(38, 61, 87);\">Extend the patient’s neck slightly and adjust it so that the<strong> </strong></span><strong><span style=\"color: rgb(192, 57, 69);\">midsagittal plane is ⟂</span></strong><span style=\"color: rgb(38, 61, 87);\"> to the plane of the IR</span></li></ul><span style=\"color: rgb(38, 61, 87);\"><br></span><span style=\"color: rgb(38, 61, 87);\"><strong>Notes:</strong> </span><strong><span style=\"color: rgb(125, 76, 163);\">Used to evaluate the cervical spine or the soft tissues of the anterior neck.</span></strong>",
+      "images": [
+        "images/rad-mwhyoecj-vek9m99h-0.png",
+        "images/rad-mwhyoef2-kl883k9l-1.png"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWHYOSHJ-B8LQW",
+      "title": "SOFT TISSUE NECK: LATERAL AP UPPER AIRWAY",
+      "region": "spine",
+      "topic": "softtissueneck",
+      "tags": [
+        "Soft Tissue Neck",
+        "Lateral",
+        "Lateral Upper Airway",
+        "Cervical Spine",
+        "Soft Tissue",
+        "Neck",
+        "Lateral Neck",
+        "Upper Airway",
+        "Airway",
+        "Trachea",
+        "Larynx",
+        "Pharynx",
+        "Epiglottis",
+        "Nasopharynx",
+        "Oropharynx",
+        "Cervical Soft Tissue",
+        "Soft Tissue Neck Lateral",
+        "Lateral Neck X-ray"
+      ],
+      "notes": "10x12 LW      SID: 72\" \nCR: \nUpper Airway: Horizontal through the MCP at laryngeal prominence C4  \nTrachea and superior mediastinum: Level of the jugular notch halfway between the jugular notch and the MCP\n\nBreath: slow inspiration \n\nCollimation: 12” long; 1” beyond the skin line on the sides, but not more than 10”\n\nPosition: \n\nAdjust position to center the airway to the midline of the IR\nClasp hands behind the body\nRotate the shoulders posteriorly as far as possible\nExtend the patient’s neck slightly\n\nNotes: Used to show retrosternal extensions of the thyroid gland, thymic enlargement in infants (in the recumbent position), the opacified pharynx and upper esophagus, and an outline of the trachea and bronchi. \n\nIt is also used to locate foreign bodies.",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><br><ul><li><strong><span style=\"color: rgb(192, 57, 69);\"><u>Upper Airway</u>: </span></strong><strong><span style=\"color: rgb(192, 57, 69);\">Horizontal through the MCP at laryngeal prominence C4  </span></strong></li><li><strong><span style=\"color: rgb(125, 76, 163);\"><u>T</u></span></strong><strong><span style=\"color: rgb(125, 76, 163);\"><u>rachea and superior mediastinum</u>: </span></strong><span style=\"color: rgb(125, 76, 163);\">Level of the jugular notch halfway between the jugular notch and the MCP</span><span style=\"color: rgb(192, 57, 69);\">\n</span></li></ul><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">slow inspiration </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">\n</span></strong><br><strong>Collimation: </strong>12” long; <span style=\"color: rgb(125, 76, 163);\">1” beyond the skin line on the sides, but not more than 10”</span><br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Adjust position to center the airway to the midline of the IR</span></li><li><strong><span style=\"color: rgb(38, 61, 87);\">Clasp hands behind the body</span></strong></li><li><span style=\"color: rgb(38, 61, 87);\">Rotate the shoulders posteriorly as far as possible</span></li><li><span style=\"color: rgb(38, 61, 87);\">Extend the patient’s neck slightly</span></li></ul><span style=\"color: rgb(38, 61, 87);\"><br></span><span style=\"color: rgb(38, 61, 87);\"><strong>Notes:</strong> </span><strong><span style=\"color: rgb(125, 76, 163);\">Used to show retrosternal extensions of the thyroid gland, thymic enlargement in infants (in the recumbent position), the opacified pharynx and upper esophagus, and an outline of the trachea and bronchi. \n</span></strong><br><strong><span style=\"color: rgb(192, 57, 69);\">It is also used to locate foreign bodies.</span></strong>",
+      "images": [
+        "images/rad-mwhz00ny-kcoyl6hg-0.png",
+        "images/rad-mwhz00r4-bv3bt31j-1.png"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWHZ5B65-85E8U",
+      "title": "RIBS: PA",
+      "region": "chest",
+      "topic": "ribs",
+      "tags": [
+        "Ribs PA",
+        "PA Ribs",
+        "Ribs",
+        "Posterior Anterior",
+        "Posteroanterior",
+        "PA",
+        "Rib Cage",
+        "Thorax",
+        "Chest",
+        "Rib X-ray",
+        "Posterior Ribs",
+        "Bilateral Ribs",
+        "Right Ribs",
+        "Left Ribs",
+        "Rib Radiograph",
+        "Bony Thorax",
+        "PA Rib Projection",
+        "Rib Series"
+      ],
+      "notes": "14x17  LW      SID: 40\" \nCR: ⟂ to center of IR at T7; \n        To demonstrate 7th, 8th,  9th ribs - angle x-ray tube 10-15° caudad\nBreath: Suspend at end of full inspiration to depress the diaphragm as much as possible\n\nTop of IR: 1.5” above the upper border of the shoulders \nCollimation: Bilateral: 14x17\n\t               Unilateral: 1” beyond MSP & lateral border of the side of interest\n\nPosition: \n\nFor unilateral ribs: center the affected side on a longitudinal plane drawn midway between the MSP and the lateral surface to grid.\nRest hands against the hips, palms out (to rotate the scapulae away from the rib cage), elbows flexed, and hands by the head on the table\n\nIf the patient is prone, rest the head on the chin or forehead and adjust the MSP to vertical \n\nNotes: For hypersthenic patients with wide rib cages, it may be necessary to move the patient laterally to include the entire lateral surface of the affected rib area on the radiograph.",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17  LW      </span><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(192, 57, 69);\">⟂ to center of IR at T7</span></strong><span style=\"color: rgb(192, 57, 69);\"><strong>; </strong></span><br><strong><span style=\"color: rgb(192, 57, 69);\">        </span></strong><span style=\"color: rgb(125, 76, 163);\">To demonstrate 7th, 8th,  9th ribs - angle x-ray tube <strong>10-15° <u>caudad</u></strong></span><strong><span style=\"color: rgb(192, 57, 69);\">\n</span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Suspend at end of full inspiration </span></strong><span style=\"color: rgb(36, 99, 174);\">to depress the diaphragm as much as possible</span><strong><span style=\"color: rgb(36, 99, 174);\">\n</span></strong><br><strong>Top of IR:</strong> 1.5” above the upper border of the shoulders <br><strong>Collimation: </strong>Bilateral: 14x17<br>\t               Unilateral: 1” beyond MSP &amp; lateral border of the side of interest<br><strong><br></strong><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><strong><span style=\"color: rgb(192, 57, 69);\">For unilateral ribs:</span></strong> center the affected side on a longitudinal plane drawn midway between the MSP and the lateral surface to grid.</li><li>Rest hands against the hips, palms out (to rotate the scapulae away from the rib cage), elbows flexed, and hands by the head on the table\n</li><li>If the patient is prone, rest the head on the chin or forehead and adjust the MSP to vertical </li></ul><strong><span style=\"color: rgb(38, 61, 87);\"><br></span></strong><strong><span style=\"color: rgb(38, 61, 87);\">Notes: </span></strong><strong><span style=\"color: rgb(125, 76, 163);\">For hypersthenic patients with wide rib cages, it may be necessary to move the patient laterally to include the entire lateral surface of the affected rib area on the radiograph.</span></strong>",
+      "images": [
+        "images/rad-mwhzhjmg-rfmkibgz-0.png",
+        "images/rad-mwhzhjpf-3t59cv4q-1.png"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWHZR23H-XK33Z",
+      "title": "RIBS: AP (Posterior Ribs) below diaphragm",
+      "region": "chest",
+      "topic": "ribs",
+      "tags": [
+        "Ribs AP",
+        "AP Ribs",
+        "Lower Ribs",
+        "Posterior Ribs",
+        "Lower Posterior Ribs",
+        "Below Diaphragm",
+        "AP Lower Ribs",
+        "Ribs Below Diaphragm",
+        "Inferior Ribs",
+        "Ribs 8-12",
+        "8th Rib",
+        "9th Rib",
+        "10th Rib",
+        "11th Rib",
+        "12th Rib",
+        "Floating Ribs",
+        "Anteroposterior",
+        "AP",
+        "Rib Cage",
+        "Thorax",
+        "Upper Abdomen",
+        "Rib X-ray",
+        "Bony Thorax",
+        "Right Ribs",
+        "Left Ribs",
+        "Lower Rib Projection"
+      ],
+      "notes": "14x17  CW     SID: 40\" \nCR: ⟂ to IR at level T7  \nBreath: Suspend at full expiration to elevate the diaphragm\n\nIR: Crosswise with lower edge near level of iliac crests; \n\nCentered to a point halfway between xiphoid process and lower rib margin (ensures inclusion of  lower ribs b/c of divergence)\n\nCollimation: Bilateral: ⟂ to MSP and centered to the IR\n\t               Unilateral: ⟂ to IR entering halfway between xiphoid and lower rib margin\n\nPosition:  \n\nSupine recommended for lower ribs to allow gravity to move the diaphragm\nArms in a comfortable position",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17  CW     </span><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(192, 57, 69);\">⟂ to IR at level T7 </span></strong><span style=\"color: rgb(192, 57, 69);\"><strong> </strong></span><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Suspend at full <u>expiration</u> </span></strong><span style=\"color: rgb(36, 99, 174);\">to <u>elevate</u> the diaphragm</span><strong><span style=\"color: rgb(36, 99, 174);\">\n</span></strong><br><strong>IR:</strong> Crosswise with lower edge near level of iliac crests; <br><ul><li><span style=\"color: rgb(125, 76, 163);\">Centered to a point halfway between xiphoid process and lower rib margin (ensures inclusion of  lower ribs b/c of divergence)</span></li></ul><br><strong>Collimation: </strong>Bilateral: ⟂ to MSP and centered to the IR<br>\t               Unilateral: ⟂ to IR entering halfway between xiphoid and lower rib margin\n<strong><br></strong><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong>  <br><ul><li>Supine recommended for lower ribs to allow gravity to move the diaphragm</li><li>Arms in a comfortable position</li></ul>",
+      "images": [
+        "images/rad-mwi06o2s-gl2zl475-0.png",
+        "images/rad-mwi06o5p-zzwhvzp8-1.png"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWHZIHFO-QLRZ1",
+      "title": "RIBS: AP (Upper Anterior) above diaphragm",
+      "region": "chest",
+      "topic": "ribs",
+      "tags": [
+        "Ribs AP",
+        "AP Ribs",
+        "Ribs",
+        "Anteroposterior",
+        "AP",
+        "Rib Cage",
+        "Thorax",
+        "Chest",
+        "Rib X-ray",
+        "Anterior Ribs",
+        "Posterior Ribs",
+        "Bilateral Ribs",
+        "Right Ribs",
+        "Left Ribs",
+        "Rib Radiograph",
+        "Bony Thorax",
+        "AP Rib Projection",
+        "Rib Series"
+      ],
+      "notes": "14x17  CW or LW     SID: 40\" \nCR: ⟂ to IR at level T7  \nBreath: Suspend at full inspiration to depress the diaphragm\n\nTop of IR: 1.5” above the upper border of relaxed shoulders\nCollimation: Bilateral: 14x17\n\t               Unilateral: 1” beyond MSP & lateral border of the side of interest\n\nPosition: \n\nRest hands on hips (this position moves the scapula of the ribs) \nOr extend arms, flex elbows, & rest hands under head\n\nShoulders in same transverse plane & rotated forward ",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17  CW or LW     </span><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(192, 57, 69);\">⟂ to IR at level T7 </span></strong><span style=\"color: rgb(192, 57, 69);\"><strong> </strong></span><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Suspend at full <u>inspiration</u> </span></strong><span style=\"color: rgb(36, 99, 174);\">to <u>depress</u> the diaphragm</span><strong><span style=\"color: rgb(36, 99, 174);\">\n</span></strong><br><strong>Top of IR:</strong> 1.5” above the upper border of relaxed shoulders<br><strong>Collimation: </strong>Bilateral: 14x17<br>\t               Unilateral: 1” beyond MSP &amp; lateral border of the side of interest<br><strong><br></strong><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li>Rest hands on hips (this position moves the scapula of the ribs) </li><li>Or extend arms, flex elbows, &amp; rest hands under head\n</li><li>Shoulders in same transverse plane &amp; rotated forward </li></ul>",
+      "images": [
+        "images/rad-mwhzqykb-2ytz2gdz-0.png",
+        "images/rad-mwhzqyng-2wwxdv3u-1.png"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWI1SLVR-U5I00",
+      "title": "RIBS: AP OBLIQUE (LPO/RPO)",
+      "region": "chest",
+      "topic": "ribs",
+      "tags": [
+        "Ribs AP Oblique",
+        "AP Oblique Ribs",
+        "Ribs",
+        "LPO",
+        "RPO",
+        "Left Posterior Oblique",
+        "Right Posterior Oblique",
+        "Posterior Oblique",
+        "Oblique Ribs",
+        "Rib Cage",
+        "Thorax",
+        "Chest",
+        "Rib X-ray",
+        "Axillary Ribs",
+        "Lateral Ribs",
+        "Right Ribs",
+        "Left Ribs",
+        "Posterior Ribs",
+        "Bony Thorax",
+        "Rib Series",
+        "AP Oblique Projection"
+      ],
+      "notes": "14x17  LW     SID: 40\" \nCR: ⟂ to IR at level T7  \nBreath: Upper ribs: Suspend at end of full inspiration\n              Lower ribs: Suspend at end of full expiration\n\nTop of IR: \nUpper Ribs: 1.5” above the upper border of relaxed shoulders\nLower Ribs: Center to halfway between the xiphoid process and the lower rib margin\n\nCollimation: Bilateral: 14x17\n\t               Unilateral: 1” beyond MSP & lateral border of the side of interest\n\nPosition: \n\nOblique patient 45° RPO or LPO\nAffected side down (closer) to IR\nCenter affected side on a longitudinal plane\nhalfway between MSP and lateral surface of body\n\nAbduct and elevate arm of affected side; Rest hand on head (upright)\nPlace hand under or above head (recumbent)\n\nAbduct opposite limb and rest hand on hip\n\nNotes: AP Axillary portion of ribs on LEFT side free of SI of T-spine = LPO                   \n            AP Axillary ribs Right side = LAO",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17  LW     </span><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(192, 57, 69);\">⟂ to IR at level T7 </span></strong><span style=\"color: rgb(192, 57, 69);\"><strong> </strong></span><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Upper ribs: Suspend at end of full <u>inspiration</u>\n              </span></strong><strong><span style=\"color: rgb(125, 76, 163);\">Lower ribs:</span></strong><strong><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(125, 76, 163);\">Suspend at end of full <u>expiration</u></span></strong><strong><u><span style=\"color: rgb(36, 99, 174);\">\n</span></u></strong><br><strong>Top of IR:</strong> <br><ul><li><span style=\"color: rgb(36, 99, 174);\"><strong>Upper Ribs</strong>:</span> 1.5” above the upper border of relaxed shoulders</li><li><span style=\"color: rgb(125, 76, 163);\"><strong>Lower Ribs</strong>:</span> <span style=\"color: rgb(0, 0, 0);\">Center to halfway between the xiphoid process </span><span style=\"color: rgb(0, 0, 0);\">and the lower rib margin</span></li></ul><span style=\"color: rgb(0, 0, 0);\"><br></span><strong>Collimation: </strong>Bilateral: 14x17<br>\t               Unilateral: 1” beyond MSP &amp; lateral border of the side of interest<br><strong><br></strong><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li>Oblique patient <strong>45°</strong> RPO or LPO</li><li><strong><u><span style=\"color: rgb(153, 0, 0);\">Affected</span></u></strong><span style=\"color: rgb(0, 0, 0);\"> side </span><strong><span style=\"color: rgb(0, 0, 0);\">down</span></strong><span style=\"color: rgb(0, 0, 0);\"> </span><span style=\"color: rgb(153, 0, 0);\">(</span><strong><em><u><span style=\"color: rgb(153, 0, 0);\">closer)</span></u></em></strong><span style=\"color: rgb(153, 0, 0);\"> </span><span style=\"color: rgb(0, 0, 0);\">to IR</span></li><li>Center affected side on a longitudinal plane\nhalfway between MSP and lateral surface of body\n</li><li>Abduct and elevate arm of <strong>affected side</strong>; Rest hand on head (upright)\nPlace hand under or above head (recumbent)\n</li><li><span style=\"color: rgb(0, 0, 0);\">Abduct opposite limb and rest hand on hip</span></li></ul><br><strong><span style=\"color: rgb(38, 61, 87);\">Notes: </span></strong><strong><span style=\"color: rgb(125, 76, 163);\">AP Axillary portion of ribs on <u>LEFT</u> side free of SI of T-spine = <u>LPO</u>       </span></strong><strong><span style=\"color: rgb(192, 57, 69);\">            </span></strong><br><strong><span style=\"color: rgb(192, 57, 69);\">            AP Axillary ribs <u>Right</u> side = <u>LAO</u></span></strong>",
+      "images": [
+        "images/rad-mwi25ym2-yf5aa81p-0.png",
+        "images/rad-mwi25ypm-ra68mx45-1.png"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWI26PXH-Y1OK6",
+      "title": "RIBS: AP OBLIQUE (RAO/LAO)",
+      "region": "chest",
+      "topic": "ribs",
+      "tags": [
+        "Ribs RAO",
+        "Ribs LAO",
+        "RAO",
+        "LAO",
+        "PA Oblique Ribs",
+        "Oblique Ribs",
+        "Right Anterior Oblique",
+        "Left Anterior Oblique",
+        "Anterior Oblique",
+        "Rib Cage",
+        "Thorax",
+        "Chest",
+        "Rib X-ray",
+        "Axillary Ribs",
+        "Lateral Ribs",
+        "Right Ribs",
+        "Left Ribs",
+        "Bony Thorax",
+        "Rib Series",
+        "PA Oblique Projection"
+      ],
+      "notes": "14x17  LW     SID: 40\" \nCR: ⟂ to IR at level T7  \nBreath: Upper ribs: Suspend at inspiration\n              Lower ribs: Suspend at expiration\n\nTop of IR: \nUpper Ribs: 1.5” above the upper border of relaxed shoulders\nLower Ribs: Center to halfway between the xiphoid process and lower rib margin\n\nCollimation: Bilateral: 14x17\n\t               Unilateral: 1” beyond MSP & lateral border of the side of interest\n\nPosition: \n\nUpright (for ribs above diaphragm) or Recumbent (ribs below diaphragm)\nOblique patient 45° RAO or LAO\nAffected side away (up) to IR\nRecumbent position: rest on the forearm and flexed knee elevated side\n\nCenter affected side on a longitudinal plane halfway between MSP and lateral surface of body\n(Axillary portion of ribs farthest from the IR free of SI with thoracic spine)\n\n(Anterior ribs farthest from the IR)\n\nNotes: *If patient can’t be placed in RAO - use LPO",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17  LW     </span><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(192, 57, 69);\">⟂ to IR at level T7 </span></strong><span style=\"color: rgb(192, 57, 69);\"><strong> </strong></span><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Upper ribs: Suspend at <u>inspiration</u>\n              </span></strong><strong><span style=\"color: rgb(125, 76, 163);\">Lower ribs:</span></strong><strong><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(125, 76, 163);\">Suspend at <u>expiration</u></span></strong><strong><u><span style=\"color: rgb(36, 99, 174);\">\n</span></u></strong><strong><span style=\"color: rgb(36, 99, 174);\">\n</span></strong><strong>Top of IR:</strong> <br><ul><li><span style=\"color: rgb(36, 99, 174);\"><strong>Upper Ribs</strong>:</span> 1.5” above the upper border of relaxed shoulders</li><li><span style=\"color: rgb(125, 76, 163);\"><strong>Lower Ribs</strong>:</span> <span style=\"color: rgb(0, 0, 0);\">Center to </span><span style=\"color: rgb(0, 0, 0);\">halfway between the xiphoid process </span><span style=\"color: rgb(0, 0, 0);\">and lower rib margin</span></li></ul><span style=\"color: rgb(0, 0, 0);\"><br></span><strong>Collimation: </strong>Bilateral: 14x17<br>\t               Unilateral: 1” beyond MSP &amp; lateral border of the side of interest<br><strong><br></strong><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><strong>Upright</strong> (for ribs above diaphragm) or <strong>Recumbent</strong> (ribs below diaphragm)</li><li>Oblique patient <strong>45°</strong> RAO or LAO</li><li><strong><u><span style=\"color: rgb(153, 0, 0);\">Affected</span></u></strong><span style=\"color: rgb(0, 0, 0);\"> side </span><strong><span style=\"color: rgb(0, 0, 0);\">away</span></strong><span style=\"color: rgb(0, 0, 0);\"> </span><strong><span style=\"color: rgb(153, 0, 0);\">(</span></strong><strong><em><u><span style=\"color: rgb(153, 0, 0);\">up)</span></u></em></strong><span style=\"color: rgb(153, 0, 0);\"> </span><span style=\"color: rgb(0, 0, 0);\">to IR</span></li><li>Recumbent position: rest on the forearm and flexed knee elevated side\n</li><li>Center affected side on a longitudinal plane halfway between MSP and lateral surface of body</li><li><span style=\"color: rgb(36, 99, 174);\">(Axillary portion of ribs farthest from the IR free of SI with thoracic spine)</span><br></li><li><span style=\"color: rgb(36, 99, 174);\">(Anterior ribs farthest from the IR)</span></li></ul><br><strong><span style=\"color: rgb(38, 61, 87);\">Notes: </span></strong><strong><span style=\"color: rgb(125, 76, 163);\">*If patient can’t be placed in RAO - use LPO</span></strong>",
+      "images": [
+        "images/rad-mwi2py39-17ujacsl-0.png",
+        "images/rad-mwi2py64-0dyxpz06-1.png"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWI3A0E6-8IANY",
+      "title": "STERNUM: LATERAL",
+      "region": "chest",
+      "topic": "sternum",
+      "tags": [
+        "Sternum Lateral",
+        "Lateral Sternum",
+        "Sternum",
+        "Lateral",
+        "Sternum X-ray",
+        "Sternum Positioning",
+        "Sternum Projection",
+        "Sternum Radiograph",
+        "Lateral Sternum Projection",
+        "Breastbone",
+        "Manubrium",
+        "Body of Sternum",
+        "Xiphoid Process",
+        "Sternomanubrial Joint",
+        "Thorax",
+        "Chest",
+        "Bony Thorax",
+        "Left Lateral",
+        "Right Lateral",
+        "Upright Lateral",
+        "Erect Lateral",
+        "Lateral Chest Bone"
+      ],
+      "notes": "10x12 LW      SID: 72\" (to reduce magnification and distortion of the sternum)  \nCR: ⟂ to IR; entering lateral border of midsternum\n        CR enters elevated side of the posterior thorax at T7 and 1” lateral to MSP to elevated side\nBreath: Suspend at inspiration\n\nCollimation: 10 X 12\n\nPosition Upright: \nRotate the shoulders posteriorly, lock hands behind back\nKeep MSP of body vertical, rest shoulders against grid\nLarge breasts drawn to sides, held in position with wide bandage so shadows don’t obscure lower position of sternum\n\nPosition Recumbent:\n\nDorsal decubitus may be used for patient condition\n\nExtend arms over head to prevent overlapping sternum\n\nRest head on the arms or on a pillow\n\nPlace support under lower thoracic region (to position long axis of sternum horizontally)\n\nNotes: Sternum in its entirety (from jugular notch to tip of xiphoid)",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW</span></strong><strong><span style=\"color: rgb(38, 61, 87);\">      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span></strong><strong> </strong>(to reduce magnification and distortion of the sternum)<strong>  </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(192, 57, 69);\">⟂ to IR; entering lateral border of midsternum</span></strong><br><strong><span style=\"color: rgb(192, 57, 69);\">        </span></strong><span style=\"color: rgb(125, 76, 163);\">CR enters <strong>elevated</strong> side of the posterior thorax at T7 and 1” lateral to MSP to elevated side</span><span style=\"color: rgb(192, 57, 69);\">\n</span><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span></strong><strong><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Suspend at inspiration</span></strong><span style=\"color: rgb(36, 99, 174);\">\n</span><br><strong>Collimation: </strong>10 X 12<br><strong><br></strong><strong><span style=\"color: rgb(38, 61, 87);\">Position Upright:</span></strong> <ul><li>Rotate the shoulders posteriorly, lock hands behind back</li><li>Keep MSP of body vertical, rest shoulders against grid</li><li><strong>Large breasts drawn to sides</strong>, held in position with wide bandage so shadows don’t obscure lower position of sternum<br></li></ul><strong><span style=\"color: rgb(38, 61, 87);\">Position Recumbent:</span></strong><br><ul><li><strong><span style=\"color: rgb(192, 57, 69);\">Dorsal decubitus may be used for patient condition</span></strong><span style=\"color: rgb(38, 61, 87);\"><br></span></li><li><span style=\"color: rgb(38, 61, 87);\">Extend arms over head to prevent overlapping sternum<br></span></li><li><span style=\"color: rgb(38, 61, 87);\">Rest head on the arms or on a pillow<br></span></li><li><span style=\"color: rgb(38, 61, 87);\">Place support under lower thoracic region (to position long axis of sternum horizontally)</span></li></ul><span style=\"color: rgb(38, 61, 87);\"></span><strong><span style=\"color: rgb(38, 61, 87);\">\n</span></strong><strong><span style=\"color: rgb(38, 61, 87);\">Notes: </span></strong><strong><span style=\"color: rgb(125, 76, 163);\">Sternum in its entirety (from jugular notch to tip of xiphoid)</span></strong>",
+      "images": [
+        "images/rad-mwi3nkrl-58o5sa5p-0.png",
+        "images/rad-mwi3nkuj-p14e7hy1-1.png"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWI2T48E-8CPM1",
+      "title": "STERNUM: PA OBLIQUE (RAO)",
+      "region": "chest",
+      "topic": "sternum",
+      "tags": [
+        "Sternum",
+        "AP Oblique Sternum",
+        "RAO Sternum",
+        "Sternum RAO",
+        "RAO",
+        "Right Anterior Oblique",
+        "AP Oblique",
+        "Anterior Oblique",
+        "Sternum X-ray",
+        "Sternum Positioning",
+        "Sternum Projection",
+        "Sternum Radiograph",
+        "Breastbone",
+        "Manubrium",
+        "Body of Sternum",
+        "Xiphoid Process",
+        "Sternoclavicular Joints",
+        "Thorax",
+        "Chest",
+        "Bony Thorax",
+        "Oblique Sternum",
+        "Upright RAO",
+        "Prone RAO"
+      ],
+      "notes": "10x12 LW      SID: 30\"  \nCR: ⟂ to IR;\n        CR enters elevated side of the posterior thorax at T7 and 1” lateral to MSP to elevated side\nBreath: Breathing technique - slow, shallow breaths during long exposure\n\nOR full expiration; \nWhen a short exposure time is to be used, instruct the patient to suspend breathing at the end of expiration to minimize the visibility of the pulmonary vasculature \n\n\nTop of IR: Top of IR 1.5” above jugular notch (to get full sternum)\nCollimation: 10 X 12\n\nPosition: \n\nRotate 15-20° in RAO recumbent (to use the heart for contrast)\nIf recumbent, have patient support body on forearm and flexed knee\nEnsure left shoulder and hip rotated equal amount (to prevent superimposition of the vertebrae & sternum)\nLong axis of sternum aligned to midline of grid\n\n\nNotes: Trauma patients unable to lie prone: use LPO in AP oblique projection;\nDeep chest = less of an angle; RAO position best demonstrates sternum over the heart",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW</span></strong><strong><span style=\"color: rgb(38, 61, 87);\">      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 30\"</span></strong><strong> </strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(192, 57, 69);\">⟂ to IR;</span></strong><br><strong><span style=\"color: rgb(192, 57, 69);\">        </span></strong><span style=\"color: rgb(192, 57, 69);\">CR enters <strong>elevated</strong> side of the posterior thorax at T7 and 1” lateral to MSP to elevated side\n</span><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><span style=\"color: rgb(36, 99, 174);\"><strong>Breathing technique - slow, shallow breaths during long exposure\n</strong><ul><li><strong><span style=\"color: rgb(36, 99, 174);\">OR full expiration; </span></strong></li><li><span style=\"color: rgb(36, 99, 174);\">When a <strong><u>short</u></strong> exposure time is to be used,</span><strong><span style=\"color: rgb(36, 99, 174);\"> </span></strong><span style=\"color: rgb(36, 99, 174);\">instruct the patient to <strong><u>suspend breathing at the end of expiration</u></strong> to minimize the visibility of the pulmonary vasculature </span><strong><span style=\"color: rgb(36, 99, 174);\">\n</span></strong></li></ul></span><br><strong>Top of IR:</strong> Top of IR 1.5” above jugular notch <span style=\"color: rgb(192, 57, 69);\">(to get full sternum)</span><br><strong>Collimation: </strong>10 X 12<br><strong><br></strong><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li>Rotate <strong><span style=\"color: rgb(192, 57, 69);\">15-20° in RAO recumbent </span></strong>(to use the heart for contrast)</li><li><span style=\"color: rgb(38, 61, 87);\">If recumbent, have patient support body on forearm and flexed knee</span></li><li>Ensure left shoulder and hip rotated equal amount <span style=\"color: rgb(192, 57, 69);\">(to prevent superimposition of the vertebrae &amp; sternum)</span></li><li>Long axis of sternum aligned to midline of grid\n</li></ul><strong><span style=\"color: rgb(38, 61, 87);\"><strong><span style=\"color: rgb(38, 61, 87);\"><br></span></strong></span></strong><strong><span style=\"color: rgb(38, 61, 87);\">Notes: </span></strong><strong><span style=\"color: rgb(125, 76, 163);\">Trauma patients unable to lie prone: use </span></strong><strong><u><span style=\"color: rgb(125, 76, 163);\">LPO</span></u></strong><strong><span style=\"color: rgb(125, 76, 163);\"> in AP oblique projection;</span></strong><br><strong><span style=\"color: rgb(192, 57, 69);\">Deep chest = less of an angle; </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">RAO position best demonstrates sternum over the heart</span></strong>",
+      "images": [
+        "images/rad-mwi35ydr-vm3297fo-0.png",
+        "images/rad-mwi35ygx-ink1s9ja-1.png"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWI4BWMO-XT76K",
+      "title": "SC JOINTS: PA",
+      "region": "shoulder",
+      "topic": "sc",
+      "tags": [
+        "SC Joints PA",
+        "PA SC Joints",
+        "Sternoclavicular Joints",
+        "SC Joints",
+        "Sternoclavicular",
+        "PA",
+        "Posteroanterior",
+        "PA Projection",
+        "Sternoclavicular Joint X-ray",
+        "SC Joint Radiograph",
+        "SC Joint Positioning",
+        "Clavicle",
+        "Medial Clavicle",
+        "Proximal Clavicle",
+        "Manubrium",
+        "Sternum",
+        "Clavicular Notch",
+        "Clavicular Articulation",
+        "Right SC Joint",
+        "Left SC Joint",
+        "Bilateral SC Joints",
+        "Bony Thorax",
+        "Upper Chest"
+      ],
+      "notes": "10x12 LW      SID: 40\" \nCR: ⟂ to center of IR; MSP at T3; C7 (vertebral prominence)\n      Breath: Suspend at end of expiration \n\nTop of IR: At jugular notch, then turn patient around\t\nCollimation: 6x8\n\nPosition: \nPlace arms along sides of body, palms facing upward\nBilateral: Rest head on chin; MSP should be vertical\n\nUnilateral: Turn head to face affected side & rest cheek on table (provides better visualization of the lateral portion of the manubrium)\n\nExposure field centered to level of spinous process of 3rd thoracic vertebra (posterior to jugular notch)\n\nChin on bucky\nTurn head right to see right SC joints\nTurn head left to see left SC joints\n\n\nNotes: SC joints are at T3 or T4",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW</span></strong><strong><span style=\"color: rgb(38, 61, 87);\">      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span></strong><span style=\"color: rgb(192, 57, 69);\"><strong>⟂ to center of IR; MSP at T3</strong></span><strong><span style=\"color: rgb(192, 57, 69);\">;</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><span style=\"color: rgb(192, 57, 69);\">C7 (vertebral prominence)</span><br><strong><span style=\"color: rgb(125, 76, 163);\">      </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Suspend at end of expiration </span></strong><br><span style=\"color: rgb(36, 99, 174);\"><br></span><strong>Top of IR:</strong> At jugular notch, then turn patient around\t<br><strong>Collimation: </strong>6x8<br><strong><br></strong><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <ul><li>Place arms along sides of body, <strong>palms facing upward</strong></li><li><strong><u><span style=\"color: rgb(36, 99, 174);\">Bilateral:</span></u> </strong><strong><span style=\"color: rgb(36, 99, 174);\">Rest head on chin</span></strong>; MSP should be vertical<br></li><li><strong><u><span style=\"color: rgb(125, 76, 163);\">Unilateral:</span></u></strong> <strong><span style=\"color: rgb(125, 76, 163);\">Turn head to face affected side &amp; rest cheek on table</span></strong> (provides better visualization of the lateral portion of the manubrium)<br></li><li>Exposure field <strong>centered</strong> to level of spinous process of <strong><u>3rd thoracic vertebra</u></strong> (posterior to jugular notch)<br></li><li>Chin on bucky\n<strong><span style=\"color: rgb(192, 57, 69);\">Turn head right to see right SC joints</span></strong>\n<strong><span style=\"color: rgb(36, 99, 174);\">Turn head left to see left SC joints</span></strong><br></li></ul><strong><span style=\"color: rgb(38, 61, 87);\"><strong><span style=\"color: rgb(38, 61, 87);\"><br></span></strong></span></strong><strong><span style=\"color: rgb(38, 61, 87);\">Notes: </span></strong><strong><span style=\"color: rgb(192, 57, 69);\">SC joints are at T3 or T4</span></strong><strong><span style=\"color: rgb(125, 76, 163);\"></span></strong>",
+      "images": [
+        "images/rad-mwi4iwd3-igsd8y75-0.png",
+        "images/rad-mwi4iwg5-up74enns-1.png"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWI4ONED-MULCI",
+      "title": "SC JOINTS: PA OBLIQUE (RAO/LAO)",
+      "region": "shoulder",
+      "topic": "sc",
+      "tags": [
+        "SC Joints PA Oblique",
+        "PA Oblique SC Joints",
+        "Sternoclavicular Joints",
+        "SC Joints",
+        "Sternoclavicular",
+        "RAO",
+        "LAO",
+        "Right Anterior Oblique",
+        "Left Anterior Oblique",
+        "PA Oblique",
+        "Anterior Oblique",
+        "Posteroanterior",
+        "Oblique SC Joints",
+        "Sternoclavicular Joint X-ray",
+        "SC Joint Radiograph",
+        "SC Joint Positioning",
+        "Clavicle",
+        "Medial Clavicle",
+        "Proximal Clavicle",
+        "Manubrium",
+        "Sternum",
+        "Clavicular Notch",
+        "Clavicular Articulation",
+        "Right SC Joint",
+        "Left SC Joint",
+        "Bony Thorax",
+        "Upper Chest"
+      ],
+      "notes": "10x12 LW      SID: 40\" \nCR: ⟂ to SC joint closest to IR (at T2-T3); \n       CR enters 3\" below the vertebral prominens;\n       1-2\" lateral to the MSP on the elevated side\n      Breath: Suspend at expiration \n\nTop of IR: At jugular notch, then turn patient around\t\nCollimation: 6x8\n\nPosition: \n\nRotate the patient 10-15° affected side down (vertebrae should be well behind the SC joint closest to IR)\nTurn head right to see right SC joints\nTurn head left to see left SC joints\nTurn head to the side",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW</span></strong><strong><span style=\"color: rgb(38, 61, 87);\">      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span></strong><span style=\"color: rgb(192, 57, 69);\"><strong>⟂ to SC joint closest to IR (at T2-T3); </strong></span><br><span style=\"color: rgb(192, 57, 69);\">       CR enters 3\" below the vertebral prominens;\n       1-2\" lateral to the MSP on the elevated side</span><strong><span style=\"color: rgb(192, 57, 69);\">\n</span></strong><strong><span style=\"color: rgb(125, 76, 163);\">      </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Suspend at expiration </span></strong><br><span style=\"color: rgb(36, 99, 174);\"><br></span><strong>Top of IR:</strong> At jugular notch, then turn patient around\t<br><strong>Collimation: </strong>6x8<br><strong><br></strong><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li>Rotate the patient <strong><u><span style=\"color: rgb(38, 61, 87);\">10-15° affected side down</span></u></strong> (vertebrae should be well behind the SC joint closest to IR)</li><li><strong><span style=\"color: rgb(192, 57, 69);\">Turn head right to see right SC joints</span></strong>\n<strong><span style=\"color: rgb(36, 99, 174);\">Turn head left to see left SC joints</span></strong></li><li><strong><span style=\"color: rgb(36, 99, 174);\"><span style=\"color: rgb(0, 0, 0);\">Turn head to the side</span></span></strong></li></ul>",
+      "images": [
+        "images/rad-mwi4xelq-kzul012l-0.png",
+        "images/rad-mwi4xeol-tg2b7bo2-1.png"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWI7MF93-8E9FO",
+      "title": "ABDOMEN: AP UPRIGHT",
+      "region": "abdomen",
+      "topic": "upright",
+      "tags": [
+        "Abdomen AP Upright",
+        "AP Upright Abdomen",
+        "Upright Abdomen",
+        "Erect Abdomen",
+        "Abdomen AP",
+        "AP Abdomen",
+        "Abdomen",
+        "Abdominal X-ray",
+        "Abdominal Radiograph",
+        "AP Upright",
+        "AP Erect",
+        "Upright",
+        "Erect",
+        "Standing Abdomen",
+        "Anteroposterior",
+        "Abdomen Positioning",
+        "Abdomen Projection",
+        "Acute Abdomen Series",
+        "Abdominal Series",
+        "Free Air",
+        "Air Fluid Levels",
+        "Air Under Diaphragm",
+        "Pneumoperitoneum",
+        "Bowel Gas Pattern",
+        "Intestines",
+        "Small Intestine",
+        "Large Intestine",
+        "Diaphragm",
+        "Iliac Crest",
+        "KUB"
+      ],
+      "notes": "14x17 LW      SID: 40\" \nCR: Hor. and ⟂ to MSP;  2” above level of iliac crests (to include diaphragm)\nBreath: Suspend at expiration \n\nCollimation: 14x17\nIR: Centered to iliac crests; Include pubis symphysis, don’t clip!\n\nPosition: \n\nBack in contact with vertical grid\nArms out of radiation field\nFor tall patients, obtain a second image for bladder \n\nNotes: Hypersthenic patients may require 2 crosswise projections;\nTall patients may require separate bladder image (upper & lower)",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">Hor. and ⟂ to MSP;  </span></strong><span style=\"color: rgb(204, 0, 0);\">2” above level of iliac crests </span><span style=\"color: rgb(125, 76, 163);\">(to include diaphragm)</span><strong><span style=\"color: rgb(192, 57, 69);\">\n</span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><span style=\"color: rgb(36, 99, 174);\"><strong>Suspend at expiration </strong></span><br><br><strong>Collimation: </strong>14x17<br><strong>IR:</strong> Centered to<strong> <u>iliac crests</u></strong>; <span style=\"color: rgb(192, 57, 69);\">Include pubis symphysis, <strong>don’t clip!</strong></span><br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Back in contact with vertical grid</span></li><li><span style=\"color: rgb(38, 61, 87);\">Arms out of radiation field</span></li><li><span style=\"color: rgb(192, 57, 69);\"><strong>For tall patients, obtain a second image for bladder</strong> </span></li></ul><span style=\"color: rgb(38, 61, 87);\"><strong><span style=\"color: rgb(38, 61, 87);\"><strong><br></strong></span>Notes:</strong> </span><strong><span style=\"color: rgb(125, 76, 163);\">Hypersthenic patients may require 2 crosswise projections;</span></strong><span style=\"color: rgb(38, 61, 87);\">\n</span><strong><span style=\"color: rgb(192, 57, 69);\">Tall patients may require separate bladder image (upper &amp; lower)</span></strong>",
+      "images": [
+        "images/rad-mwi83b5v-4agnge9g-0.png",
+        "images/rad-mwi83b84-lzrtv6gz-1.png"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWI85O73-PLLLV",
+      "title": "ABDOMEN: AP SUPINE (KUB) *preferred",
+      "region": "abdomen",
+      "topic": "supine",
+      "tags": [
+        "Abdomen AP Supine",
+        "AP Abdomen",
+        "Supine Abdomen",
+        "KUB",
+        "Kidneys Ureters Bladder",
+        "Abdomen",
+        "Abdominal X-ray",
+        "AP Supine",
+        "Supine",
+        "AP",
+        "Anteroposterior",
+        "KUB X-ray",
+        "Abdominal Radiograph",
+        "Abdomen Positioning",
+        "Abdomen Projection",
+        "Flat Plate Abdomen",
+        "Flat Plate",
+        "Plain Abdominal Film",
+        "Urinary Tract",
+        "Kidneys",
+        "Ureters",
+        "Bladder",
+        "Bowel Gas Pattern",
+        "Intestines",
+        "Large Intestine",
+        "Small Intestine",
+        "Iliac Crest",
+        "Symphysis Pubis",
+        "Abdominal Cavity"
+      ],
+      "notes": "14x17 LW      SID: 40\" \nCR: ⟂ to IR; MSP at level of iliac crests\nBreath: Suspend on expiration \n\nCollimation: 14x17\nIR: Centered to iliac crests; Include pubis symphysis, don’t clip!\n\nPosition: \n\nSupine, without rotation (preferred over upright)\nSupport knees to reduce strain\nFor tall patients, obtain a second image for bladder \n\nNotes: Hypersthenic patients may require 2 crosswise projections;\nTall patients may require separate bladder image (upper & lower)",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">⟂ to IR; MSP at level of <u>iliac crests</u></span></strong><strong><span style=\"color: rgb(192, 57, 69);\">\n</span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><span style=\"color: rgb(36, 99, 174);\"><strong>Suspend on expiration </strong></span><br><span style=\"color: rgb(105, 149, 199);\"><strong><br></strong></span><strong>Collimation: </strong>14x17<br><strong>IR:</strong> Centered to<strong> iliac crests</strong>; <span style=\"color: rgb(192, 57, 69);\">Include pubis symphysis, <strong>don’t clip!</strong></span><br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Supine, without rotation <strong>(preferred over upright)</strong></span></li><li><span style=\"color: rgb(38, 61, 87);\">Support knees to reduce strain</span></li><li><strong><span style=\"color: rgb(192, 57, 69);\">For tall patients, obtain a second image for bladder</span></strong><span style=\"color: rgb(192, 57, 69);\"> </span></li></ul><span style=\"color: rgb(38, 61, 87);\"><strong><span style=\"color: rgb(38, 61, 87);\"><strong><br></strong></span>Notes:</strong> </span><strong><span style=\"color: rgb(125, 76, 163);\">Hypersthenic patients may require 2 crosswise projections;</span></strong><span style=\"color: rgb(38, 61, 87);\">\n</span><strong><span style=\"color: rgb(192, 57, 69);\">Tall patients may require separate bladder image (upper &amp; lower)</span></strong>",
+      "images": [
+        "images/rad-mwi88puz-4mvjlcqc-0.png",
+        "images/rad-mwi88pxa-5y6l59nj-1.png"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWI89W4E-XR2IQ",
+      "title": "ABDOMEN: LATERAL DECUBITUS",
+      "region": "abdomen",
+      "topic": "supine",
+      "tags": [
+        "Abdomen Left Lateral Decubitus",
+        "Left Lateral Decubitus",
+        "LLD",
+        "Left Side Down",
+        "Abdomen Decubitus",
+        "Abdominal Decubitus",
+        "AP Abdomen",
+        "AP Projection",
+        "Abdomen",
+        "Abdominal X-ray",
+        "Abdominal Radiograph",
+        "Left Lateral Position",
+        "Side Lying",
+        "Horizontal Beam",
+        "Horizontal X-ray Beam",
+        "Cross Table",
+        "Decubitus Position",
+        "Abdomen Positioning",
+        "Acute Abdomen Series",
+        "Abdominal Series",
+        "Free Air",
+        "Intraperitoneal Free Air",
+        "Pneumoperitoneum",
+        "Air Fluid Levels",
+        "Bowel Gas Pattern",
+        "Intestinal Obstruction",
+        "Diaphragm",
+        "Right Hemidiaphragm",
+        "Right Flank",
+        "Abdominal Cavity"
+      ],
+      "notes": "14x17 LW      SID: 40\" \nCR: Horizontal & ⟂ to GRID\nBreath: Suspend at expiration (Taken 5 minutes after patient lies on their side when free intraperitoneal air is suspected. Allows air to rise to its highest level within the abdomen)\n \nCollimation: 14x17\nIR: Centered to iliac crests or 2\" above (if diaphragm is to be demonstrated)\n\nPosition: \n\nLeft lateral recumbent position (mostly performed)\nElevate patient 2-3” with sponge\nArms above the level of the diaphragm\nFlex knees slightly to provide stabilization\n\nNotes: For patients too ill to stand; Side down for fluid, side up for free air;\nWhen looking for free air, choose Left Lateral Decubitus (no right decubitus b/c air is in the stomach)",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(192, 57, 69);\">Horizontal &amp; ⟂ to GRID</span></strong><strong><span style=\"color: rgb(192, 57, 69);\">\n</span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><span style=\"color: rgb(36, 99, 174);\"><strong>Suspend at expiration </strong></span><span style=\"color: rgb(36, 99, 174);\">(Taken <u>5 minutes</u> after patient lies on their side when free intraperitoneal air is suspected. Allows air to rise to its highest level within the abdomen)\n</span><strong><span style=\"color: rgb(36, 99, 174);\"> </span></strong><br><strong>Collimation: </strong>14x17<br><strong>IR:</strong> Centered to<strong> iliac crests or 2\" above</strong> <strong><span style=\"color: rgb(192, 57, 69);\">(if diaphragm is to be demonstrated)</span></strong><br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Left lateral recumbent position (mostly performed)</span></li><li><span style=\"color: rgb(38, 61, 87);\">Elevate patient 2-3” with sponge</span></li><li><span style=\"color: rgb(38, 61, 87);\">Arms above the level of the diaphragm</span></li><li><span style=\"color: rgb(38, 61, 87);\">Flex knees slightly to provide stabilization</span></li></ul><span style=\"color: rgb(38, 61, 87);\"><strong><span style=\"color: rgb(38, 61, 87);\"><strong><br></strong></span>Notes:</strong> </span><strong><span style=\"color: rgb(125, 76, 163);\">For patients too ill to stand; </span></strong><strong><u><span style=\"color: rgb(153, 0, 0);\">Side down for fluid, side up for free air;</span></u></strong><br><span style=\"color: rgb(36, 99, 174);\"><strong>When looking for </strong><strong><u>free air</u></strong><strong>, choose </strong><strong><u>Left Lateral Decubitus</u></strong><strong> </strong>(no right decubitus b/c air is in the stomach)</span><strong><u><span style=\"color: rgb(153, 0, 0);\"></span></u></strong>",
+      "images": [
+        "images/rad-mwi8kvqd-b51egydc-0.png",
+        "images/rad-mwi8meho-xqvqjn0n-1.png"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWI8OI9L-L2DPG",
+      "title": "ABDOMEN: DORSAL DECUBITUS",
+      "region": "abdomen",
+      "topic": "supine",
+      "tags": [
+        "Abdomen Dorsal Decubitus",
+        "Dorsal Decubitus",
+        "Dorsal Decub",
+        "Dorsal Recumbent",
+        "AP Abdomen",
+        "AP Projection",
+        "Abdomen",
+        "Abdominal X-ray",
+        "Abdominal Radiograph",
+        "Supine Position",
+        "Supine Abdomen",
+        "Horizontal Beam",
+        "Horizontal X-ray Beam",
+        "Cross Table",
+        "Decubitus Position",
+        "Abdomen Positioning",
+        "Acute Abdomen Series",
+        "Abdominal Series",
+        "Free Air",
+        "Intraperitoneal Free Air",
+        "Pneumoperitoneum",
+        "Air Fluid Levels",
+        "Bowel Gas Pattern",
+        "Intestinal Obstruction",
+        "Diaphragm",
+        "Abdominal Cavity"
+      ],
+      "notes": "14x17 LW      SID: 40\" \nCR: Horizontal & ⟂ to GRID; MCP 2” above iliac crests\nBreath: Suspend at expiration \n \nCollimation: 14x17\nIR: Centered to iliac crests or 2\" above (if diaphragm is to be demonstrated)\n\nPosition: \n\nSupine (right or left side in contact with vertical grid device)\nArms crossed on upper chest or behind head\nVertical grid device aligned to the long axis of IR with MCP\nVertical grid centered to the MCP 2” above iliac crests to IR\n\nNotes:  For patients who can’t stand or lie on their side (for free air)",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(192, 57, 69);\">Horizontal &amp; ⟂ to GRID; </span></strong><span style=\"color: rgb(192, 57, 69);\">MCP 2” above iliac crests</span><strong><span style=\"color: rgb(192, 57, 69);\">\n</span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Suspend at expiration </span></strong><span style=\"color: rgb(36, 99, 174);\">\n</span><strong><span style=\"color: rgb(36, 99, 174);\"> </span></strong><br><strong>Collimation: </strong>14x17<br><strong>IR:</strong> Centered to<strong> iliac crests or 2\" above</strong> <strong><span style=\"color: rgb(192, 57, 69);\">(if diaphragm is to be demonstrated)</span></strong><br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Supine (right or left side in contact with vertical grid device)</span></li><li><span style=\"color: rgb(38, 61, 87);\">Arms crossed on upper chest or behind head</span></li><li><span style=\"color: rgb(38, 61, 87);\">Vertical grid device aligned to the long axis of IR with MCP</span></li><li><span style=\"color: rgb(38, 61, 87);\">Vertical grid centered to the MCP 2” above iliac crests to IR</span></li></ul><span style=\"color: rgb(38, 61, 87);\"><strong><span style=\"color: rgb(38, 61, 87);\"><strong><br></strong></span>Notes:</strong> </span><strong><span style=\"color: rgb(125, 76, 163);\"> For patients who can’t stand or lie on their side (for free air)</span></strong>",
+      "images": [
+        "images/rad-mwi8u974-41mhh6w7-0.png",
+        "images/rad-mwi8vpin-ig9spr34-1.png"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWHX7CPC-4HB4R",
+      "title": "CHEST: MOBILE AP",
+      "region": "chest",
+      "topic": "chest",
+      "tags": [
+        "Chest",
+        "AP",
+        "AP Supine",
+        "AP Chest",
+        "Supine Chest",
+        "Chest X-ray",
+        "Chest Radiograph",
+        "Portable Chest"
+      ],
+      "notes": "14x17  LW      SID: 72\" \nCR: ⟂ to long axis of sternum; ⟂ to center of IR; \n        3” below jugular notch at T7\nBreath: Suspend at inspiration \n(if respiration assistance is provided, watch pt chest to determine inspiratory phase)\n\nTop of IR: 1.5- 2” above shoulders\nCollimation: 14x17\n\nPosition: \n\nSeated upright, semi upright, or supine\nGreatest upright angle the patient can tolerate, whenever possible. \nUse the supine position for critically ill or injured patients \nCenter MSP to IR\n\nInternally rotate patient’s arms (if not contraindicated)\nNo leaning or rotation of upper torso",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17  LW      </span><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span></strong><span style=\"color: rgb(192, 57, 69);\"><strong>⟂ to long axis of sternum; ⟂ to center of IR; </strong></span><br><span style=\"color: rgb(192, 57, 69);\"><strong>        3” below jugular notch at T7<br></strong></span><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span><span style=\"color: rgb(36, 99, 174);\">Suspend at inspiration </span></strong><br><span style=\"color: rgb(36, 99, 174);\">(if respiration assistance is provided, watch pt chest to determine inspiratory phase)</span><br><br><strong>Top of IR:</strong> 1.5- 2” above shoulders<br><strong>Collimation: </strong>14x17<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li>Seated upright, semi upright, or supine</li><li>Greatest upright angle the patient can tolerate, whenever possible. </li><li>Use the supine position for critically ill or injured patients </li><li>Center MSP to IR\n</li><li>Internally rotate patient’s arms (if not contraindicated)</li><li>No leaning or rotation of upper torso</li></ul>",
+      "images": [
+        "images/rad-mwhxhly5-cxprfi9h-0.png",
+        "images/rad-mwhxhm19-5ie3rig9-1.png"
+      ],
+      "status": "published",
+      "demo": false
+    }
+  ]
+}

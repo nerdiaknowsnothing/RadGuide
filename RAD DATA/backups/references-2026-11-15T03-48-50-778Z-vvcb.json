@@ -1,0 +1,272 @@
+{
+  "format": "RAD-Reference-Workspace",
+  "version": 1,
+  "updatedAt": "2026-11-15T03:40:43.700Z",
+  "entries": [
+    {
+      "id": "RAD-MWGWIF63-9L1EU",
+      "title": "CHEST: LATERAL",
+      "region": "chest",
+      "topic": "chest",
+      "tags": [
+        "chest",
+        "lateral"
+      ],
+      "notes": "14x17 LW       SID: 72\" \nCR: ⟂ to MCP at T7\nBreath: Suspend at end of 2nd full inspiration\n\nTop of IR: 1.5-2” above shoulders\nCollimation: 1\" border around skin line\n\nPosition: Rest arms above head or hold bar (IV stand in front)\n\nNotes: Left Lateral preferred\n",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17 LW       </span><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span><span style=\"color: rgb(192, 57, 69);\">⟂ to MCP at T7</span></strong><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span><span style=\"color: rgb(36, 99, 174);\">Suspend at end of 2nd full inspiration</span></strong><br><br><strong>Top of IR:</strong> 1.5-2” above shoulders<br><strong>Collimation: </strong>1\" border around skin line<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> Rest arms above head or hold bar (IV stand in front)<br><span style=\"color: rgb(192, 57, 69);\"><br></span><strong><span style=\"color: rgb(38, 61, 87);\">Notes:</span></strong><span style=\"color: rgb(192, 57, 69);\"> Left Lateral preferred</span><br>",
+      "images": [
+        "images/rad-mwh74831-3tqgiug5-0.jpg",
+        "images/rad-mwh7485c-c4o4qmh4-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH2M9HA-2WIT2",
+      "title": "CHEST: PA Upright",
+      "region": "chest",
+      "topic": "chest",
+      "tags": [
+        "chest",
+        "PA",
+        "PA Upright"
+      ],
+      "notes": "14X17 CW or LW      SID: 72\" \nCR: ⟂ to MSP at T7\nBreath: Suspend at end of 2nd full inspiration\n\nIR Top: 1.5-2” above shoulders\nCollimation: 1\" border around skin line\n\nPosition: \n\nChin extended slightly\nBack of hands low on hips or grabbing bars on IR\nRoll shoulders forward",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14X17 CW or LW      </span><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span><span style=\"color: rgb(192, 57, 69);\">⟂ to MSP at T7</span></strong><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span><span style=\"color: rgb(36, 99, 174);\">Suspend at end of 2nd full inspiration</span></strong><br><br><strong>IR Top:</strong> 1.5-2” above shoulders<br><strong>Collimation: </strong>1\" border around skin line<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li>Chin extended slightly</li><li>Back of hands low on hips or grabbing bars on IR</li><li>Roll shoulders forward</li></ul>",
+      "images": [
+        "images/rad-mwh7bpbd-ax9hr01t-0.jpg",
+        "images/rad-mwh2typa-7ucw2fsi-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH2WKP0-4DJM4",
+      "title": "CHEST: LATERAL DECUBITUS",
+      "region": "chest",
+      "topic": "chest",
+      "tags": [
+        "chest",
+        "Decubitus",
+        "Left lateral decubitus",
+        "decube",
+        "chest decube",
+        "chest decubitus"
+      ],
+      "notes": "14X17 LW      SID: 72\" \nCR: Horizontal & ⟂ to GRID; \n       3\" below jugular notch for AP;\n       T7 for PA\nBreath: Suspend at end of 2nd full inspiration\n\nIR Top: 1.5-2” above shoulders\nCollimation: 14x17\n\nPosition: \n\nExtend arms over head\nAdjust thorax to true lateral\nElevate body 2-3\" off table with sponge\n\nNotes: Left lateral decubitus preferred",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14X17 LW      </span><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(192, 57, 69);\">Horizontal &amp; ⟂ to GRID; </span></strong><br><strong><span style=\"color: rgb(192, 57, 69);\">       3\" below jugular notch for AP;</span></strong><br><strong><span style=\"color: rgb(192, 57, 69);\">       T7 for PA</span></strong><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span><span style=\"color: rgb(36, 99, 174);\">Suspend at end of 2nd full inspiration</span></strong><br><br><strong>IR Top:</strong> 1.5-2” above shoulders<br><strong>Collimation: </strong>14x17<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li>Extend arms over head</li><li>Adjust thorax to true lateral</li><li>Elevate body 2-3\" off table with sponge</li></ul><br><strong>Notes: </strong>Left lateral decubitus preferred",
+      "images": [
+        "images/rad-mwh77rkx-uf50xf9f-0.jpg",
+        "images/rad-mwh77rng-hk28jfr4-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH4IT0V-MWAY6",
+      "title": "C-Spine: AP AXIAL",
+      "region": "spine",
+      "topic": "cervical",
+      "tags": [
+        "C-Spine",
+        "spine",
+        "cervical spine",
+        "cervical",
+        "cervical spine ap axial",
+        "c-spine ap axial"
+      ],
+      "notes": "10x12 LW      SID: 40\" \nCR: 15-20° cephalic; MSP at C4 (Enters at or slightly inferior to the Adam’s apple)\nBreath: Suspend\n\nCollimation: 10” LW & 1” outside skin line on sides\nIR: Top of ears\n\nPosition: \n\nExtend chin so occlusal plane is ⟂ to IR\nC4 in center of IR\nShoulders in same plane\n(Shows C3–T2 bodies & open intervertebral disk spaces)\n\nNotes: Provide support for the head of any patient who has a pronounced lordotic curvature. (Helps compensate for the curvature and reduces image distortion)",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">15-20°</span><span style=\"color: rgb(204, 0, 0);\"> </span><span style=\"color: rgb(204, 0, 0);\">cephalic</span></strong><strong><span style=\"color: rgb(192, 57, 69);\">; </span></strong><span style=\"color: rgb(192, 57, 69);\">MSP at C4 </span><span style=\"color: rgb(125, 76, 163);\">(Enters at or slightly inferior to the Adam’s apple)</span><strong><span style=\"color: rgb(192, 57, 69);\">\n</span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span><span style=\"color: rgb(36, 99, 174);\">Suspend</span></strong><br><br><strong>Collimation: </strong>10” LW &amp; 1” outside skin line on sides<br><strong>IR:</strong> Top of ears<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Extend chin so occlusal plane is <strong>⟂</strong> to IR</span></li><li><span style=\"color: rgb(38, 61, 87);\">C4 in center of IR</span></li><li><span style=\"color: rgb(38, 61, 87);\">Shoulders in same plane</span></li><li><span style=\"color: rgb(36, 99, 174);\">(Shows C3–T2 bodies &amp; open intervertebral disk spaces)</span></li></ul><br><span style=\"color: rgb(38, 61, 87);\"><strong>Notes:</strong> Provide support for the head of any patient who has </span>a pronounced lordotic curvature. (Helps compensate for the curvature and reduces image distortion)",
+      "images": [
+        "images/rad-mwh94p7c-2zh3iwwf-0.jpg",
+        "images/rad-mwh4spyy-rkm5vdai-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH4TSU9-DQ6AP",
+      "title": "C-Spine: AP ODONTOID (Open-Mouth) C1-C2",
+      "region": "spine",
+      "topic": "cervical",
+      "tags": [
+        "C-Spine",
+        "spine",
+        "cervical spine",
+        "cervical",
+        "cervical spine odontoid",
+        "c-spine odontoid",
+        "c1",
+        "c2",
+        "open mouth",
+        "open-mouth",
+        "ap odontoid",
+        "c-spine"
+      ],
+      "notes": "10x12 LW      SID: 30\" \nCR: ⟂ to IR; Enters midpoint of the open mouth\nBreath: “AHH” softly during exposure (brings tongue down)\n\nCollimation: 5x5\n\nPosition: \n\nOpen mouth & adjust head so lower surface of upper incisors to tips of mastoid ⟂ to IR\nMouth open as wide as possible\n(Shows Atlas: C1 & Axis: C2)",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 30\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><span style=\"color: rgb(204, 0, 0);\"><strong>⟂ to IR; </strong>Enters midpoint of the open mouth</span><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><span style=\"color: rgb(36, 99, 174);\"><strong>“AHH” softly during exposure </strong>(brings tongue down)</span><br><br><strong>Collimation: </strong>5x5<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Open mouth &amp; adjust head so lower surface of upper incisors to tips of mastoid ⟂ to IR</span></li><li><span style=\"color: rgb(38, 61, 87);\"><span style=\"color: rgb(0, 0, 0);\">Mouth open as wide as possible</span></span></li><li><span style=\"color: rgb(36, 99, 174);\">(Shows Atlas: C1 &amp; Axis: C2)</span></li></ul>",
+      "images": [
+        "images/rad-mwh6sb3j-mz037uwk-0.jpg",
+        "images/rad-mwh518jb-6odr01b0-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH51HEC-F5VEF",
+      "title": "C-Spine: AP AXIAL OBLIQUE (LPO/RPO)",
+      "region": "spine",
+      "topic": "cervical",
+      "tags": [
+        "C-Spine",
+        "spine",
+        "cervical spine",
+        "cervical",
+        "cervical spine ap axial oblique",
+        "c-spine",
+        "AP AXIAL OBLIQUE  LPO/RPO"
+      ],
+      "notes": "10x12 LW      SID: 72\" \nCR: 15-20° cephalad, directed to C4 \nBreath: Suspend\n\nCollimation: 10x12 \nIR: Centered to C3 body\n      1\" superior to most prominent point of thyroid cartilage\n\nPosition: \n\nRotate shoulders 45° & center to cervical spine to IR\nElevate & protrude chin\n(Shows intervertebral foramina and pedicles farthest from the IR)\n\nNotes: LPO = right foramina | RPO = left foramina\n",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">15-20° cephalad, </span></strong><span style=\"color: rgb(204, 0, 0);\">directed to C4 </span><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Suspend</span></strong><br><br><strong>Collimation: </strong>10x12<strong> </strong><br><strong>IR:</strong> Centered to <strong><u><span style=\"color: rgb(192, 57, 69);\">C3</span></u></strong> body<br>      1\" <strong>superior</strong> to most prominent point of thyroid cartilage<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\"><strong>Rotate shoulders 45° </strong>&amp; center to cervical spine to IR</span></li><li><span style=\"color: rgb(38, 61, 87);\">Elevate &amp; protrude chin</span></li><li><span style=\"color: rgb(36, 99, 174);\">(Shows intervertebral foramina and pedicles <strong><u>farthest</u></strong> from the IR)</span></li></ul><br><strong><span style=\"color: rgb(38, 61, 87);\">Notes: </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">LPO = right foramina | RPO = left foramina</span></strong><span style=\"color: rgb(38, 61, 87);\"><br></span>",
+      "images": [
+        "images/rad-mwh6o4b7-3j68el6q-0.jpg",
+        "images/rad-mwh5aiwd-dhkm2x8w-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH5QFU9-WPKHP",
+      "title": "C-Spine: LATERAL (GRANDY)",
+      "region": "spine",
+      "topic": "cervical",
+      "tags": [
+        "C-Spine",
+        "spine",
+        "cervical spine",
+        "cervical",
+        "cervical spine lateral",
+        "c-spine lateral grandy",
+        "grandy"
+      ],
+      "notes": "10x12 LW      SID: 72\" \nCR: Horizontal & ⟂ to MCP at C4\nBreath: Suspend at end of full expiration\n\nCollimation: 10x12 \nTop of IR: 1” above top of EAM\n  \nPosition: \n\nSandbags to patient's wrists to depress shoulders (to get C7)\nC4 in center\nElevate chin slightly, mandible protruded\n(Shows vertebral bodies, zygapophyseal joints, & open intervertebral disk spaces)\n\nNotes: *If cervical spine trauma is suspected, this projection must be performed first and *cleared* by radiologist before additional images are performed.\n*If top third of T1 is not demonstrated, lateral of cervicothoracic is required (Swimmers).\n",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">Horizontal &amp; ⟂ to MCP at C4</span></strong><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath: Suspend at end of full expiration</span></strong><br><br><strong>Collimation: </strong>10x12<strong> </strong><br><strong>Top of IR:</strong> 1” above top of EAM<br>  <br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Sandbags to patient's wrists to depress shoulders</span><span style=\"color: rgb(192, 57, 69);\"> (to get C7)</span></li><li><span style=\"color: rgb(38, 61, 87);\">C4 in center</span></li><li><span style=\"color: rgb(38, 61, 87);\">Elevate chin slightly, mandible protruded</span></li><li><span style=\"color: rgb(36, 99, 174);\">(Shows vertebral bodies, zygapophyseal joints, &amp; open intervertebral disk spaces)</span></li></ul><br><strong><span style=\"color: rgb(38, 61, 87);\">Notes: </span></strong><span style=\"color: rgb(38, 61, 87);\">*If cervical spine trauma is suspected, this projection must be performed first and *cleared* by radiologist before additional images are performed.\n</span><span style=\"color: rgb(125, 76, 163);\">*If top third of T1 is not demonstrated, lateral of cervicothoracic is required (Swimmers).</span><br>",
+      "images": [
+        "images/rad-mwh70dpr-vec5bg8l-0.jpg",
+        "images/rad-mwh60y94-a2nj8o4q-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH7H3V4-GMSY9",
+      "title": "C-Spine: AP DENS (FUCHS)",
+      "region": "spine",
+      "topic": "cervical",
+      "tags": [
+        "C-Spine",
+        "spine",
+        "cervical spine",
+        "cervical",
+        "cervical spine AP Dens Fuchs",
+        "C-spin ap dens",
+        "fuchs",
+        "dens"
+      ],
+      "notes": "10x12 CW      SID: 40\" \nCR: ⟂ to IR; Enters the neck on the MSP just distal to the tip of the chin\nBreath: Suspend\n\nCollimation: 5x5\n\nPosition: \n\nCenter the IR to the level of the tips of the mastoid processes\nExtend the chin until the tip of the chin and the tips of the mastoid process are vertical\nAdjust the head so that the MSP is perpendicular to the plane of the grid\n(Shows dens within the foramen magnum)\n\nNotes: Fuchs method is contraindicated if cervical fracture or disease is suspected.",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 CW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><span style=\"color: rgb(204, 0, 0);\"><strong>⟂ to IR; </strong>Enters the neck on the MSP just distal to the tip of the chin</span><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><span style=\"color: rgb(36, 99, 174);\"><strong>Suspend</strong></span><br><br><strong>Collimation: </strong>5x5<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Center the IR to the level of the tips of the mastoid processes</span></li><li><span style=\"color: rgb(38, 61, 87);\">Extend the chin until the tip of the chin and the tips of the mastoid process are vertical</span></li><li><span style=\"color: rgb(38, 61, 87);\"><span style=\"color: rgb(0, 0, 0);\">Adjust the head so that the MSP is perpendicular to the plane of the grid</span></span></li><li><span style=\"color: rgb(36, 99, 174);\">(Shows dens within the foramen magnum)</span></li></ul><span style=\"color: rgb(0, 0, 0);\"><strong><span style=\"color: rgb(0, 0, 0);\"><strong><br></strong></span>Notes:</strong> Fuchs method is </span><span style=\"color: rgb(192, 57, 69);\">contraindicated</span><span style=\"color: rgb(0, 0, 0);\"> if cervical fracture or disease is suspected.</span>",
+      "images": [
+        "images/rad-mwh7rns1-wrlnzm4m-0.jpg",
+        "images/rad-mwh7rnue-mgz7zbj8-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH80HFQ-JGGPE",
+      "title": "C-Spine: LATERAL - Hyperflexion & Hyperextension",
+      "region": "spine",
+      "topic": "cervical",
+      "tags": [
+        "C-Spine",
+        "spine",
+        "cervical spine",
+        "cervical",
+        "cervical spine lateral",
+        "Hyperflexion",
+        "hyperextension; c-spine lateral hyperextension; c-spine lateral hyperflexion"
+      ],
+      "notes": "10x12 LW      SID: 72\" \nCR: Horizontal & ⟂ to C4\nBreath: Suspend \n\nCollimation: 10x12 \nTop of IR: 1” above top of EAM\n  \nPosition: \n\nSame as for lateral (Grandy)\nHyperflexion: Have patient drop head forward and draw the chin as close as possible to chest; Body of the mandible almost vertical\n\nHyperextension: Have patient elevate chin and relax head as far back as possible; Body of the mandible almost horizontal\n\nElevate chin slightly, mandible protruded\n(Checks for absent motion from trauma/disease)\n\nNotes: *Used to demonstrate absence of normal movement from trauma or disease.\n*This procedure must not be attempted until cervical spine pathology or fracture has been ruled out.\n",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">Horizontal &amp; ⟂ to C4</span></strong><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath: Suspend </span></strong><br><br><strong>Collimation: </strong>10x12<strong> </strong><br><strong>Top of IR:</strong> 1” above top of EAM<br>  <br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Same as for lateral (Grandy)</span></li><li><strong><span style=\"color: rgb(27, 133, 94);\">Hyperflexion</span></strong><span style=\"color: rgb(38, 61, 87);\">: Have patient drop head forward and draw the chin as close as possible to chest; Body of the mandible almost vertical</span>\n</li><li><strong><span style=\"color: rgb(173, 99, 14);\">Hyperextension:</span></strong><span style=\"color: rgb(38, 61, 87);\"> Have patient elevate chin and relax head as far back as possible; Body of the mandible almost horizontal</span>\n</li><li><span style=\"color: rgb(38, 61, 87);\">Elevate chin slightly, mandible protruded</span></li><li><span style=\"color: rgb(36, 99, 174);\">(Checks for absent motion from trauma/disease)</span></li></ul><br><strong><span style=\"color: rgb(38, 61, 87);\">Notes: </span></strong><span style=\"color: rgb(38, 61, 87);\">*Used to demonstrate absence of normal movement from trauma or disease.\n</span><span style=\"color: rgb(125, 76, 163);\">*This procedure must <strong>not</strong> be attempted until cervical spine pathology or fracture has been ruled out.</span><br>",
+      "images": [
+        "images/rad-mwh8cmo5-4onq5bsz-0.jpg",
+        "images/rad-mwh8cmqf-0e0b1n3m-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH8IGMY-UWYHT",
+      "title": "C-Spine: PA AXIAL OBLIQUE (RAO/LAO) *preferred*",
+      "region": "spine",
+      "topic": "cervical",
+      "tags": [
+        "C-Spine",
+        "spine",
+        "cervical spine",
+        "cervical",
+        "cervical spine ap axial oblique",
+        "RAO/LAO oblique",
+        "c-spine PA AXIAL OBLIQUE (RAO/LAO)"
+      ],
+      "notes": "10x12 LW      SID: 72\" \nCR: 15-20° caudad, Directed to C4 \nBreath: Suspend\n\nCollimation: 10x12 \nIR: Centered to C5 body\n      1\" caudal to most prominent point of thyroid cartilage\n\nPosition: \n\nRotate body & neck 45° \nCenter cervical spine to IR\nElevate & protrude chin\n(Shows RAO/LAO = Intervertebral foramina and pedicles closest to the IR)\n\nNotes: RAO = right foramina | LAO = left foramina",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">10x12 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">15-20° caudad, </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">Directed to C4 </span></strong><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Suspend</span></strong><br><br><strong>Collimation: </strong>10x12<strong> </strong><br><strong>IR:</strong> Centered to <strong><u><span style=\"color: rgb(192, 57, 69);\">C5</span></u></strong> body<br>      1\" <strong>caudal</strong> to most prominent point of thyroid cartilage<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">Rotate body &amp; neck<strong> 45° </strong></span></li><li><span style=\"color: rgb(38, 61, 87);\">Center cervical spine to IR</span></li><li><span style=\"color: rgb(38, 61, 87);\">Elevate &amp; protrude chin</span></li><li><span style=\"color: rgb(36, 99, 174);\">(Shows RAO/LAO = Intervertebral foramina and pedicles <strong><u>closest</u></strong> to the IR)</span></li></ul><br><strong><span style=\"color: rgb(38, 61, 87);\">Notes: </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">RAO = right foramina | LAO = left foramina</span></strong>",
+      "images": [
+        "images/rad-mwh8vabl-x8xji8wu-0.jpg",
+        "images/rad-mwh8vady-hf0xt0vc-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH9XNU1-OR25T",
+      "title": "T-Spine: AP",
+      "region": "spine",
+      "topic": "thoracic",
+      "tags": [
+        "T-Spine",
+        "spine",
+        "thoracic spine",
+        "T-SPINE: AP"
+      ],
+      "notes": "14x17 LW      SID: 40\" \nCR: ⟂ to IR; ½ between jugular notch & xiphoid (T7)\nBreath: Suspend at full expiration\n\nCollimation: 7x17\nTop of IR: 1.5-2” above shoulders (this places T7 in center) \n\nPosition: \n\nMSP centered to grid\nIf supine, reduce kyphosis by flexing hips and knees to place thighs vertical\nIf upright, weight should be equally distributed on both feet\n(Shows costovertebral articulations)\n\nNotes: If possible, orient patient so lower thorax is at cathode end of x-ray tube. This orientation takes advantage of the “anode heel effect” to ensure a more uniform exposure of the thoracic anatomy.",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 40\"</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">⟂ to IR; </span></strong><span style=\"color: rgb(204, 0, 0);\">½ between jugular notch &amp; xiphoid (T7)</span><strong><span style=\"color: rgb(192, 57, 69);\">\n</span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Suspend at full expiration</span></strong><br><br><strong>Collimation: </strong>7x17<br><strong>Top of IR:</strong> 1.5-2” above shoulders (this places T7 in center) <br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">MSP centered to grid</span></li><li><span style=\"color: rgb(38, 61, 87);\">If </span><strong><span style=\"color: rgb(192, 57, 69);\">supine</span></strong><span style=\"color: rgb(38, 61, 87);\">, reduce kyphosis by flexing hips and knees to place thighs vertical</span></li><li><span style=\"color: rgb(38, 61, 87);\">If </span><strong><span style=\"color: rgb(125, 76, 163);\">upright</span></strong><span style=\"color: rgb(38, 61, 87);\">, weight should be equally distributed on both feet</span></li><li><span style=\"color: rgb(36, 99, 174);\">(Shows costovertebral articulations)</span></li></ul><br><span style=\"color: rgb(38, 61, 87);\"><strong>Notes:</strong> If possible, orient patient so lower thorax is at cathode end of x-ray tube. This orientation takes advantage of the “anode heel effect” to ensure a more uniform exposure of the thoracic anatomy.</span>",
+      "images": [
+        "images/rad-mwha9o4n-toglw698-0.jpg",
+        "images/rad-mwha9o6y-bquog5ne-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWHAAMBA-DVPYS",
+      "title": "T-Spine: LATERAL",
+      "region": "spine",
+      "topic": "thoracic",
+      "tags": [
+        "T-Spine",
+        "spine",
+        "thoracic spine",
+        "T-SPINE: AP"
+      ],
+      "notes": "14x17 LW      SID: 48\" or greater to reduce magnification \nCR: ⟂ to IR; ½ between jugular notch & xiphoid (T7)\nBreath: Suspend at full expiration\n\nCollimation: 7x17\nTop of IR: 1.5-2” above relaxed shoulders (this places T7 in center) \n\nPosition: \n\nMSP centered to grid\nIf supine, reduce kyphosis by flexing hips and knees to place thighs vertical\nIf upright, weight should be equally distributed on both feet\n(Shows costovertebral articulations)\n\nNotes: If possible, orient patient so lower thorax is at cathode end of x-ray tube. This orientation takes advantage of the “anode heel effect” to ensure a more uniform exposure of the thoracic anatomy.",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14x17 LW      </span></strong><strong><span style=\"color: rgb(38, 61, 87);\">SID: 48\" or greater to reduce magnification</span></strong><strong> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span></strong><strong><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(204, 0, 0);\">⟂ to IR; </span></strong><span style=\"color: rgb(204, 0, 0);\">½ between jugular notch &amp; xiphoid (T7)</span><strong><span style=\"color: rgb(192, 57, 69);\">\n</span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><strong><span style=\"color: rgb(36, 99, 174);\">Suspend at full expiration</span></strong><br><br><strong>Collimation: </strong>7x17<br><strong>Top of IR:</strong> 1.5-2” above relaxed shoulders (this places T7 in center) <br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li><span style=\"color: rgb(38, 61, 87);\">MSP centered to grid</span></li><li><span style=\"color: rgb(38, 61, 87);\">If </span><strong><span style=\"color: rgb(192, 57, 69);\">supine</span></strong><span style=\"color: rgb(38, 61, 87);\">, reduce kyphosis by flexing hips and knees to place thighs vertical</span></li><li><span style=\"color: rgb(38, 61, 87);\">If </span><strong><span style=\"color: rgb(125, 76, 163);\">upright</span></strong><span style=\"color: rgb(38, 61, 87);\">, weight should be equally distributed on both feet</span></li><li><span style=\"color: rgb(36, 99, 174);\">(Shows costovertebral articulations)</span></li></ul><br><span style=\"color: rgb(38, 61, 87);\"><strong>Notes:</strong> If possible, orient patient so lower thorax is at cathode end of x-ray tube. This orientation takes advantage of the “anode heel effect” to ensure a more uniform exposure of the thoracic anatomy.</span>",
+      "images": [
+        "images/rad-mwhaeipg-ks7lrj4w-0.jpg",
+        "images/rad-mwhaeirw-tg2wzil9-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    }
+  ]
+}

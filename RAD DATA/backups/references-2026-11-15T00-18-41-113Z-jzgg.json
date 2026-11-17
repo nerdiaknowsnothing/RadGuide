@@ -1,0 +1,63 @@
+{
+  "format": "RAD-Reference-Workspace",
+  "version": 1,
+  "updatedAt": "2026-11-15T00:16:32.581Z",
+  "entries": [
+    {
+      "id": "RAD-MWGWIF63-9L1EU",
+      "title": "CHEST: LATERAL",
+      "region": "chest",
+      "topic": "chest",
+      "tags": [
+        "chest",
+        "lateral"
+      ],
+      "notes": "14X17 LW       SID: 72\" \nCR: ⟂ to MCP at T7\nBreath: Suspend at end of 2nd full inspiration\n\nIR Top: 1.5-2” above shoulders\nColl: 1\" border around skin line\n\nPos: Rest arms above head or hold bar (IV stand in front)\n\nNotes: Left Lateral preferred\n",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14X17 LW       </span><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span><span style=\"color: rgb(192, 57, 69);\">⟂ to MCP at T7</span></strong><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span><span style=\"color: rgb(36, 99, 174);\">Suspend at end of 2nd full inspiration</span></strong><br><br><strong>IR Top:</strong> 1.5-2” above shoulders<br><strong>Coll: </strong>1\" border around skin line<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Pos:</span></strong> Rest arms above head or hold bar (IV stand in front)<br><span style=\"color: rgb(192, 57, 69);\"><br></span><strong><span style=\"color: rgb(38, 61, 87);\">Notes:</span></strong><span style=\"color: rgb(192, 57, 69);\"> Left Lateral preferred</span><br>",
+      "images": [
+        "images/rad-mwgxjbpd-ftoffti9-0.jpg",
+        "images/rad-mwgxjbrp-seo54bha-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH2M9HA-2WIT2",
+      "title": "CHEST: PA Upright",
+      "region": "chest",
+      "topic": "chest",
+      "tags": [
+        "chest",
+        "PA",
+        "PA Upright"
+      ],
+      "notes": "14X17 CW or LW      SID: 72\" \nCR: ⟂ to MSP at T7\nBreath: Suspend at end of 2nd full inspiration\n\nIR Top: 1.5-2” above shoulders\nCollimation: 1\" border around skin line\n\nPosition: \n\nChin extended slightly\nBack of hands low on hips or grabbing bars on IR\nRoll shoulders forward",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14X17 CW or LW      </span><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span><span style=\"color: rgb(192, 57, 69);\">⟂ to MSP at T7</span></strong><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span><span style=\"color: rgb(36, 99, 174);\">Suspend at end of 2nd full inspiration</span></strong><br><br><strong>IR Top:</strong> 1.5-2” above shoulders<br><strong>Collimation: </strong>1\" border around skin line<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li>Chin extended slightly</li><li>Back of hands low on hips or grabbing bars on IR</li><li>Roll shoulders forward</li></ul>",
+      "images": [
+        "images/rad-mwh2tyn1-qqepdw2t-0.jpg",
+        "images/rad-mwh2typa-7ucw2fsi-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    },
+    {
+      "id": "RAD-MWH2WKP0-4DJM4",
+      "title": "CHEST: LATERAL DECUBITUS",
+      "region": "chest",
+      "topic": "chest",
+      "tags": [
+        "chest",
+        "PA",
+        "PA Upright"
+      ],
+      "notes": "14X17 LW      SID: 72\" \nCR: Horizontal & ⟂ to GRID \n3\" below jugular notch for AP; T7 for PA\nBreath: Suspend at end of 2nd full inspiration\n\nIR Top: 1.5-2” above shoulders\nCollimation: 14x17\n\nPosition: \n\nExtend arms over head\nAdjust thorax to true lateral\nElevate body 2-3\" off table with sponge\n\nNotes: Left lateral decubitus preferred",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14X17 LW      </span><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span></strong><strong><span style=\"color: rgb(192, 57, 69);\">Horizontal &amp; ⟂ to GRID </span></strong><br><strong><span style=\"color: rgb(192, 57, 69);\">3\" below jugular notch for AP; T7 for PA</span></strong><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span><span style=\"color: rgb(36, 99, 174);\">Suspend at end of 2nd full inspiration</span></strong><br><br><strong>IR Top:</strong> 1.5-2” above shoulders<br><strong>Collimation: </strong>14x17<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Position:</span></strong> <br><ul><li>Extend arms over head</li><li>Adjust thorax to true lateral</li><li>Elevate body 2-3\" off table with sponge</li></ul><br><strong>Notes: </strong>Left lateral decubitus preferred",
+      "images": [
+        "images/rad-mwh33xpa-hl0ot0vq-0.jpg",
+        "images/rad-mwh33xrh-cqg5f0di-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    }
+  ]
+}

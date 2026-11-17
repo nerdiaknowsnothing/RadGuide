@@ -1,0 +1,25 @@
+{
+  "format": "RAD-Reference-Workspace",
+  "version": 1,
+  "updatedAt": "2026-11-14T22:28:46.116Z",
+  "entries": [
+    {
+      "id": "RAD-MWGWIF63-9L1EU",
+      "title": "CHEST: LATERAL",
+      "region": "chest",
+      "topic": "chest",
+      "tags": [
+        "chest",
+        "lateral"
+      ],
+      "notes": "14X17 LW       SID: 72\" \nCR: ⟂ to MCP at T7\nBreath: Suspend at end of 2nd full inspiration\n\nIR Top: 1.5-2” above shoulders\nColl: 1\" border around skin line\n\nPos: Rest arms above head or hold bar (IV stand in front)\n\n\nNotes: Left Lateral preferred\n\n\n",
+      "notesHtml": "<strong><span style=\"color: rgb(38, 61, 87);\">14X17 LW       </span><span style=\"color: rgb(38, 61, 87);\">SID: 72\"</span> </strong><br><strong><span style=\"color: rgb(192, 57, 69);\">CR:</span><span style=\"color: rgb(192, 57, 69);\"> </span><span style=\"color: rgb(192, 57, 69);\">⟂ to MCP at T7</span></strong><br><strong><span style=\"color: rgb(36, 99, 174);\">Breath:</span><span style=\"color: rgb(36, 99, 174);\"> </span></strong><span style=\"color: rgb(36, 99, 174);\"><u>Suspend</u> at end of <u>2nd full inspiration</u></span><br><br><strong>IR Top:</strong> 1.5-2” above shoulders<br><strong>Coll: </strong>1\" border around skin line<br><br><strong><span style=\"color: rgb(38, 61, 87);\">Pos:</span></strong> Rest arms above head or hold bar (IV stand in front)<br><span style=\"color: rgb(192, 57, 69);\"><br></span><br><strong><span style=\"color: rgb(38, 61, 87);\">Notes:</span></strong><span style=\"color: rgb(192, 57, 69);\"> Left Lateral preferred</span><br><br><br>",
+      "images": [
+        "images/rad-mwgxjbpd-ftoffti9-0.jpg",
+        "images/rad-mwgxjbrp-seo54bha-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    }
+  ]
+}

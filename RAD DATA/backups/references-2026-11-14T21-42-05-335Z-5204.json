@@ -1,0 +1,713 @@
+{
+  "format": "RAD-Reference-Workspace",
+  "version": 1,
+  "updatedAt": "2026-11-14T21:41:37.302Z",
+  "entries": [
+    {
+      "id": "RAD-001",
+      "title": "Skull",
+      "region": "head",
+      "topic": "skull",
+      "tags": [
+        "cranium",
+        "caldwell",
+        "lateral",
+        "towne",
+        "head"
+      ],
+      "notes": "Placeholder study notes for Skull. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-002",
+      "title": "Facial Bones",
+      "region": "head",
+      "topic": "face",
+      "tags": [
+        "facial",
+        "bones",
+        "orbits",
+        "waters"
+      ],
+      "notes": "Placeholder study notes for Facial Bones. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-003",
+      "title": "Paranasal Sinuses",
+      "region": "head",
+      "topic": "sinus",
+      "tags": [
+        "sinus",
+        "waters",
+        "caldwell"
+      ],
+      "notes": "Placeholder study notes for Paranasal Sinuses. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-004",
+      "title": "Mandible",
+      "region": "head",
+      "topic": "mandible",
+      "tags": [
+        "jaw",
+        "ramus"
+      ],
+      "notes": "Placeholder study notes for Mandible. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-005",
+      "title": "Cervical Spine",
+      "region": "spine",
+      "topic": "cervical",
+      "tags": [
+        "c-spine",
+        "neck",
+        "odontoid",
+        "ap",
+        "lateral",
+        "open",
+        "mouth"
+      ],
+      "notes": "Placeholder study notes for Cervical Spine. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-006",
+      "title": "Cervical Spine Obliques",
+      "region": "spine",
+      "topic": "cervical",
+      "tags": [
+        "c-spine",
+        "rao",
+        "lao",
+        "rpo",
+        "lpo",
+        "foramina"
+      ],
+      "notes": "Placeholder study notes for Cervical Spine Obliques. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-007",
+      "title": "Thoracic Spine",
+      "region": "spine",
+      "topic": "thoracic",
+      "tags": [
+        "t-spine",
+        "ap",
+        "lateral",
+        "swimmers"
+      ],
+      "notes": "Placeholder study notes for Thoracic Spine. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-008",
+      "title": "Lumbar Spine",
+      "region": "spine",
+      "topic": "lumbar",
+      "tags": [
+        "l-spine",
+        "ap",
+        "lateral",
+        "obliques",
+        "scotty",
+        "dog"
+      ],
+      "notes": "Placeholder study notes for Lumbar Spine. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-009",
+      "title": "Sacrum & Coccyx",
+      "region": "spine",
+      "topic": "sacrum",
+      "tags": [
+        "tailbone",
+        "spine",
+        "axial"
+      ],
+      "notes": "Placeholder study notes for Sacrum & Coccyx. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-010",
+      "title": "Chest",
+      "region": "chest",
+      "topic": "chest",
+      "tags": [
+        "thorax",
+        "lungs",
+        "ap",
+        "pa",
+        "portable",
+        "lateral",
+        "inspiration"
+      ],
+      "notes": "Placeholder study notes for Chest. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-011",
+      "title": "Ribs",
+      "region": "chest",
+      "topic": "ribs",
+      "tags": [
+        "rib",
+        "cage",
+        "ap",
+        "pa",
+        "oblique",
+        "rao",
+        "lao",
+        "rpo",
+        "lpo"
+      ],
+      "notes": "Placeholder study notes for Ribs. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-012",
+      "title": "Sternum",
+      "region": "chest",
+      "topic": "sternum",
+      "tags": [
+        "breastbone",
+        "rao",
+        "lateral"
+      ],
+      "notes": "Placeholder study notes for Sternum. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-013",
+      "title": "AP Abdomen (KUB)",
+      "region": "abdomen",
+      "topic": "supine",
+      "tags": [
+        "abdomen",
+        "supine",
+        "kub",
+        "kidney",
+        "ureter",
+        "bladder"
+      ],
+      "notes": "Placeholder study notes for AP Abdomen (KUB). Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-014",
+      "title": "Upright Abdomen",
+      "region": "abdomen",
+      "topic": "upright",
+      "tags": [
+        "abdomen",
+        "erect",
+        "acute",
+        "series"
+      ],
+      "notes": "Placeholder study notes for Upright Abdomen. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-015",
+      "title": "Shoulder",
+      "region": "shoulder",
+      "topic": "shoulder",
+      "tags": [
+        "ap",
+        "external",
+        "rotation",
+        "internal",
+        "scapular",
+        "y"
+      ],
+      "notes": "Placeholder study notes for Shoulder. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-016",
+      "title": "Clavicle",
+      "region": "shoulder",
+      "topic": "clavicle",
+      "tags": [
+        "ap",
+        "axial",
+        "collarbone"
+      ],
+      "notes": "Placeholder study notes for Clavicle. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-017",
+      "title": "Scapula",
+      "region": "shoulder",
+      "topic": "scapula",
+      "tags": [
+        "lateral",
+        "y",
+        "view"
+      ],
+      "notes": "Placeholder study notes for Scapula. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-018",
+      "title": "AC Joints",
+      "region": "shoulder",
+      "topic": "ac",
+      "tags": [
+        "acromioclavicular",
+        "joints",
+        "weight",
+        "bearing"
+      ],
+      "notes": "Placeholder study notes for AC Joints. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-019",
+      "title": "Humerus",
+      "region": "humerus",
+      "topic": "humerus",
+      "tags": [
+        "upper",
+        "arm",
+        "ap",
+        "lateral"
+      ],
+      "notes": "Placeholder study notes for Humerus. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-020",
+      "title": "Elbow",
+      "region": "forearm",
+      "topic": "elbow",
+      "tags": [
+        "ap",
+        "lateral",
+        "radial",
+        "head"
+      ],
+      "notes": "Placeholder study notes for Elbow. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-021",
+      "title": "Forearm",
+      "region": "forearm",
+      "topic": "forearm",
+      "tags": [
+        "radius",
+        "ulna",
+        "ap",
+        "lateral"
+      ],
+      "notes": "Placeholder study notes for Forearm. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-022",
+      "title": "Wrist",
+      "region": "hand",
+      "topic": "wrist",
+      "tags": [
+        "carpals",
+        "pa",
+        "oblique",
+        "lateral",
+        "scaphoid"
+      ],
+      "notes": "Placeholder study notes for Wrist. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-023",
+      "title": "Hand",
+      "region": "hand",
+      "topic": "hand",
+      "tags": [
+        "metacarpals",
+        "pa",
+        "oblique",
+        "lateral"
+      ],
+      "notes": "Placeholder study notes for Hand. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-024",
+      "title": "Fingers",
+      "region": "hand",
+      "topic": "finger",
+      "tags": [
+        "digits",
+        "phalanges"
+      ],
+      "notes": "Placeholder study notes for Fingers. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-025",
+      "title": "Thumb",
+      "region": "hand",
+      "topic": "thumb",
+      "tags": [
+        "first",
+        "digit"
+      ],
+      "notes": "Placeholder study notes for Thumb. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-026",
+      "title": "Pelvis",
+      "region": "pelvis",
+      "topic": "pelvis",
+      "tags": [
+        "ap",
+        "pelvis",
+        "sacroiliac"
+      ],
+      "notes": "Placeholder study notes for Pelvis. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-027",
+      "title": "Hip",
+      "region": "pelvis",
+      "topic": "hip",
+      "tags": [
+        "frog",
+        "lateral",
+        "acetabulum"
+      ],
+      "notes": "Placeholder study notes for Hip. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-028",
+      "title": "SI Joints",
+      "region": "pelvis",
+      "topic": "si",
+      "tags": [
+        "sacroiliac",
+        "joints",
+        "oblique"
+      ],
+      "notes": "Placeholder study notes for SI Joints. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-029",
+      "title": "Femur",
+      "region": "femur",
+      "topic": "femur",
+      "tags": [
+        "thigh",
+        "ap",
+        "lateral"
+      ],
+      "notes": "Placeholder study notes for Femur. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-030",
+      "title": "Knee",
+      "region": "knee",
+      "topic": "knee",
+      "tags": [
+        "ap",
+        "lateral",
+        "tunnel",
+        "sunrise"
+      ],
+      "notes": "Placeholder study notes for Knee. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-031",
+      "title": "Patella",
+      "region": "knee",
+      "topic": "patella",
+      "tags": [
+        "sunrise",
+        "tangential",
+        "skyline"
+      ],
+      "notes": "Placeholder study notes for Patella. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-032",
+      "title": "Tibia & Fibula",
+      "region": "lowerleg",
+      "topic": "tibfib",
+      "tags": [
+        "lower",
+        "leg",
+        "tib",
+        "fib",
+        "ap",
+        "lateral"
+      ],
+      "notes": "Placeholder study notes for Tibia & Fibula. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-033",
+      "title": "Ankle",
+      "region": "foot",
+      "topic": "ankle",
+      "tags": [
+        "mortise",
+        "ap",
+        "lateral"
+      ],
+      "notes": "Placeholder study notes for Ankle. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-034",
+      "title": "Foot",
+      "region": "foot",
+      "topic": "foot",
+      "tags": [
+        "metatarsals",
+        "ap",
+        "oblique",
+        "lateral"
+      ],
+      "notes": "Placeholder study notes for Foot. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-035",
+      "title": "Calcaneus",
+      "region": "foot",
+      "topic": "calcaneus",
+      "tags": [
+        "heel",
+        "axial",
+        "lateral"
+      ],
+      "notes": "Placeholder study notes for Calcaneus. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-036",
+      "title": "Toes",
+      "region": "foot",
+      "topic": "toes",
+      "tags": [
+        "phalanges",
+        "toes",
+        "ap",
+        "oblique"
+      ],
+      "notes": "Placeholder study notes for Toes. Add positioning, central ray, breathing instructions, and evaluation criteria from your course material here.",
+      "images": [
+        "",
+        ""
+      ],
+      "status": "published",
+      "demo": true
+    },
+    {
+      "id": "RAD-MWGWIF63-9L1EU",
+      "title": "CHEST: LATERAL",
+      "region": "chest",
+      "topic": "chest",
+      "tags": [
+        "chest",
+        "lateral"
+      ],
+      "notes": "14X17 LW       SID: 72\" \nCR: ⟂ to MCP at T7\nBreath: Suspend at end of 2nd full inspiration\n\nIR Top: 1.5-2” above shoulders\nColl: 1\" border around skin line\n\nPos: Rest arms above head or hold bar (IV stand in front)\n(Left Lateral preferred)\n\nEval: Include costophrenic angles & portions of pulmonary apices not obscured by arms.\nNo rotation: Hila in center, SI of ribs posterior to vertebral column, trachea visible in mid.\nNo forward or backward leaning on long axis of lung fields.\nOpen thoracic intervertebral joint spaces & intervertebral foramina (except with scoliosis).\nSternum in profile.\nSharp outlines of heart & diaphragm.\nPulmonary vascular markings from hilar regions to periphery of lungs\n\n",
+      "images": [
+        "images/rad-mwgxjbpd-ftoffti9-0.jpg",
+        "images/rad-mwgxjbrp-seo54bha-1.jpg"
+      ],
+      "status": "published",
+      "demo": false
+    }
+  ]
+}
